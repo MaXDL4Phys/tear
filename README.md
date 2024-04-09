@@ -1,3 +1,7 @@
+
+# "the code will be released soon" 
+
+
 # TEAR:  Text-Enhanced Zero-Shot Action Recognition
 
 
