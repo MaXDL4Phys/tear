@@ -1,0 +1,507 @@
+{
+    "Typing": [
+        "Position fingers on keyboard",
+        "Type desired characters or words",
+        "Press enter or desired key to execute command"
+    ],
+    "Rowing": [
+        "Sit on the rowing machine and secure feet",
+        "Grab the handle with both hands and lean forward",
+        "Pull the handle toward you while leaning back and extending legs"
+    ],
+    "Punch": [
+        "Stand in a stable stance",
+        "Rotate your hips, shoulders, and elbow",
+        "Extend your arm and make contact with the target"
+    ],
+    "High Jump": [
+        "Approach the bar with correct form",
+        "Jump off one foot and drive opposite knee upward",
+        "Extend your body and arch your back to clear the bar"
+    ],
+    "Hand Stand Pushups": [
+        "Get into a handstand position against a wall",
+        "Slowly lower yourself until your head almost touches the ground",
+        "Push yourself back up to the starting position"
+    ],
+    "Nunchucks": [
+        "Hold one stick in each hand",
+        "Twirl one stick around and grasp it",
+        "Swing the second stick and repeat the twirl with the other hand"
+    ],
+    "Cliff Diving": [
+        "Run towards the cliff",
+        "Jump off the edge, pushing off with your feet",
+        "Maintain proper form and enter the water feet first"
+    ],
+    "Swing": [
+        "Grasp onto the swing with your hands",
+        "Swing back and forth",
+        "Release the swing and jump off at the desired time"
+    ],
+    "Frisbee Catch": [
+        "Position yourself under the Frisbee",
+        "Determine the direction and speed of the Frisbee",
+        "Extend arms and hands and catch the Frisbee at the highest point possible"
+    ],
+    "Sumo Wrestling": [
+        "Stand in the middle of the ring and face your opponent",
+        "Lunge at your opponent, using your body weight to push them out of the ring",
+        "Push your opponent down to the ground or force them out of the ring"
+    ],
+    "Yo Yo": [
+        "Hold the yo-yo with your palm facing up",
+        "Throw the yo-yo downwards and release",
+        "Pull the yo-yo upwards while simultaneously lifting your throwing hand to bring it back up"
+    ],
+    "Lunges": [
+        "Stand straight with your feet hip-width apart",
+        "Take a step forward with one leg and bend that knee to a 90-degree angle",
+        "Push down with the heel of the front foot and lift the heel of the back foot as you stand up"
+    ],
+    "Clean And Jerk": [
+        "Start with the barbell on the ground and hands gripping the bar shoulder-width apart",
+        "Lift the bar from the ground to the shoulders in one fluid motion",
+        "In a split second motion, push the bar upwards and split your legs to catch the bar with arms extended above your head"
+    ],
+    "Skate Boarding": [
+        "Stand with your leading foot on the skateboard and push off the ground",
+        "Shift your weight while bending your knees to steer the skateboard",
+        "Come to a stop by slowing down or using your foot to brake the skateboard"
+    ],
+    "Rope Climbing": [
+        "Stand in front of the rope and jump to reach it",
+        "Grab the rope and use your feet to grip and climb up",
+        "Reach the top and ring the bell or touch the ceiling"
+    ],
+    "Playing Piano": [
+        "Sit on the piano bench with correct posture and hand position",
+        "Press keys corresponding to desired notes or chords",
+        "Maintain the rhythm and tempo while following the sheet music or playing by ear"
+    ],
+    "Tennis Swing": [
+        "Start with a good athletic stance with your feet shoulder-width apart",
+        "Switch your weight to your back foot",
+        "Step forward and swing the racquet forward with your arm above your head"
+    ],
+    "Juggling Balls": [
+        "Start with two balls in your dominant hand and one in your non-dominant hand",
+        "Toss the first ball in your dominant hand to your other hand",
+        "As the first ball reaches its peak, toss the second ball from your non-dominant hand to your dominant hand"
+    ],
+    "Military Parade": [
+        "March in a straight line with a group of people",
+        "Maintain the correct spacing between individuals",
+        "Execute precise turns and maneuvers when directed by the leader"
+    ],
+    "Haircut": [
+        "Comb the hair to remove tangles and knots",
+        "Use scissors or clippers to trim the hair according to the desired length and style",
+        "Clean the hair and the surrounding space of cut hair fragments"
+    ],
+    "Volleyball Spiking": [
+        "Approach the ball by taking three steps back followed by a forward 3-step approach",
+        "Jump upwards and raise one arm with a bended elbow",
+        "Snap the wrist and hit the top of the ball to send it downwards to the opposing teams side"
+    ],
+    "Soccer Penalty": [
+        "Place the ball on the penalty spot",
+        "Take three to four steps back and one to the side",
+        "Run forwards and kick the ball towards the goal, aiming for an empty spot past the goalkeeper"
+    ],
+    "Floor Gymnastics": [
+        "Start with a standing position and prepare for desired routine",
+        "Execute floor movements to perform tricks and moves",
+        "Finish with a controlled landing and pose that displays confident and stable balance"
+    ],
+    "Billiards": [
+        "Position the cue ball for the desired shot",
+        "Strike the cue ball with the pool stick, aiming for the desired target ball",
+        "Sink the targeted ball into the pocket"
+    ],
+    "Cricket Bowling": [
+        "Grip the cricket ball with the four fingers across the seam and thumb underneath the ball",
+        "Take a few steps backwards followed by a few steps forward",
+        "Push off with the front foot and bring the arm forward while releasing the ball with a spin towards the wicket"
+    ],
+    "Hammering": [
+        "Position the nail on the surface with your nondominant hand",
+        "Hold the hammer in your dominant hand and swing it backwards",
+        "Bring the hammer forwards, striking the nail while maintaining control and avoiding damage to the surrounding area"
+    ],
+    "Cutting In Kitchen": [
+        "Place the desired food item on a cutting board",
+        "Pick up a knife with your dominant hand",
+        "Cut the food item using the knife with your desired technique, ensuring your fingers are clear of the blade"
+    ],
+    "Shotput": [
+        "Stand at the back of the circle with the shotput pressed to your neck.",
+        "Take a swift and explosive push off the ground with one leg while hurling the shotput at the desired angle",
+        "Maintain proper posture and technique for maximum accuracy and distance"
+    ],
+    "Playing Tabla": [
+        "Begin the taal by striking the dayan with the small finger and middle finger of your stronger hand",
+        "Play the bols by using the fingers and palms to produce desired sounds and rhythms",
+        "Execute the kaida or rela by improvising based on rhythm and technique"
+    ],
+    "Mopping Floor": [
+        "Fill a bucket with water and the desired cleaning solution",
+        "Dip the mop into the bucket and wring out excess water",
+        "Mop the desired area in a systematic and consistent manner"
+    ],
+    "Hammer Throw": [
+        "Start by winding up the hammer around your head",
+        "Turn your body quickly in the opposite direction to build momentum",
+        "Release the hammer at the right moment and at the angle you want the hammer to go"
+    ],
+    "Fencing": [
+        "Start with both feet shoulder-width apart and bend at the knees into en garde position",
+        "Thrust the foil toward the opponent, aiming for points that will give you a win",
+        "Deflect oncoming attacks with swift parries"
+    ],
+    "Trampoline Jumping": [
+        "Start with a small jump to get momentum",
+        "Use your core to spring upwards and control your height and position",
+        "Land in a controlled manner with feet and legs together"
+    ],
+    "Archery": [
+        "Steady your elbow on the bowstring to maintain grip",
+        "Draw the arrow from the quiver and place it on the bowstring",
+        "Aim at the desired target and release the bowstring while maintaining aim"
+    ],
+    "Rafting": [
+        "Determine the course of your desired route",
+        "Identify dangerous rapids or obstacles to navigate around",
+        "Paddle or steer the raft with effective teamwork to ensure safety and an enjoyable experience"
+    ],
+    "Writing On Board": [
+        "Hold the marker at its base",
+        "Write legibly in the desired text, ensuring the writing is visible to viewers",
+        "Erase the writing or make any changes as needed"
+    ],
+    "Javelin Throw": [
+        "Hold the javelin parallel to the ground and behind your shoulder",
+        "Run forward and plant your foot while lowering your arm",
+        "Whip the javelin forward while releasing it at the desired angle"
+    ],
+    "Bowling": [
+        "Choose the appropriate bowling ball",
+        "Start with a good athletic stance",
+        "Take a few steps forward and release the ball with a smooth swing of the arm"
+    ],
+    "Drumming": [
+        "Hold drumsticks with a loose grip",
+        "Strike the drumhead in the desired sequence to produce steady rhythm",
+        "Include fills or breaks by moving sticks around drums"
+    ],
+    "Skijet": [
+        "Mount the skijet and make any necessary adjustments",
+        "Accelerate and start moving forward while maintaining balance",
+        "Steer and adjust your speed accordingly while remaining aware of your surroundings"
+    ],
+    "Pull Ups": [
+        "Position yourself under the pull-up bar with a shoulder-width grip",
+        "Pull your body up towards the bar",
+        "Lower your body until your arms are straight and repeat"
+    ],
+    "Apply Lipstick": [
+        "Choose a lipstick shade that complements your skin tone",
+        "Remove the cap of the lipstick",
+        "Start by outlining your lips with the lipstick and then apply color evenly in the remaining of your lips"
+    ],
+    "Baby Crawling": [
+        "Position your baby on their hands and knees",
+        "Encourage your baby to move their opposite hand and leg forward",
+        "Repeat this sequence of movements, alternating the limbs"
+    ],
+    "Table Tennis Shot": [
+        "Make your body and grip relaxed",
+        "Watch the ball intently as it approaches",
+        "Swing the paddle forward and connect with the ball at the correct angle for the desired shot"
+    ],
+    "Long Jump": [
+        "Run towards the line while keeping steady speed",
+        "Plant your take off foot and use the lever of the foot to move yourself forward",
+        "Keep your legs extending forward in front of your body and have a smooth landing"
+    ],
+    "Body Weight Squats": [
+        "Stand with feet shoulder-width apart and toes slightly pointed out",
+        "Bend at the knees and hips, lowering the body",
+        "Push through the heels and extension the legs to return to the starting position"
+    ],
+    "Mixing": [
+        "Prepare ingredients as needed to start recipe",
+        "Mix the ingredients by hand or with a mixer according to the desired instructions",
+        "Monitor and adjust the mixture as needed until desired consistency is achieved"
+    ],
+    "Playing Dhol": [
+        "Start with a basic dhol beat",
+        "Alternate between both sides of the dhol using the palm and fingers",
+        "Create different rhythm patterns by incorporating the base or treble beats"
+    ],
+    "Tai Chi": [
+        "Stand with feet shoulder with apart and arms at hanging sides",
+        "Follow the routine with slow and sweeping movements",
+        "Breathe deeply and steadily while executing the movements"
+    ],
+    "Parallel Bars": [
+        "Grip the bars tightly with both hands",
+        "Lift yourself up until arms are straight",
+        "Lower yourself down by bending your elbows and then repeat"
+    ],
+    "Soccer Juggling": [
+        "Start by kicking the ball up with one foot",
+        "Juggle the ball from one foot to the other",
+        "Use various tricks to keep the ball off the ground while maintaining good form and control"
+    ],
+    "Cricket Shot": [
+        "Position yourself in the appropriate stance",
+        "Focus on the bowler and anticipate the movement of the ball",
+        "Swing the bat in the desired direction to hit the ball and score a run"
+    ],
+    "Pommel Horse": [
+        "Start by facing the horse in a crouching position",
+        "Place both hands on the pommels and quickly lift one leg over the horse",
+        "Shift your weight across the horse while twisting and turning your body"
+    ],
+    "Hula Hoop": [
+        "Start by positioning the hula hoop around your waist",
+        "Rock your hips forward and backwards while keeping your upper body still",
+        "Maintain movement by swirling your hips in one or more directions to keep the hoop in motion"
+    ],
+    "Playing Violin": [
+        "Sit or stand with correct posture, holding the violin between your chin and shoulder",
+        "Place your fingers on the fingerboard to create the desired notes",
+        "Use the bow to play the strings with smooth and steady movements"
+    ],
+    "Walking With Dog": [
+        "Attach the leash to the dog\u2019s collar or harness",
+        "Walk forward while holding the leash in your hand",
+        "Allow the dog to explore the surroundings while ensuring their safety and keeping them under control"
+    ],
+    "Knitting": [
+        "Choose a yarn and knitting needle appropriate for your desired project",
+        "Create a slipknot and slide it onto one needle",
+        "Loop the yarn over the needle and weave the needle through the loop to create a row of stitches"
+    ],
+    "Boxing Speed Bag": [
+        "Stand in front of the speed bag with good stance",
+        "Use your hands to strike the bag in a rhythmic pattern",
+        "Adjust your movements to the timing of the bag in order to maintain consistent strikes"
+    ],
+    "Uneven Bars": [
+        "Start with a hang on the high bar",
+        "Swing your legs forward and back to generate momentum",
+        "Release the high bar and perform moves on the low bar before re-grasping the high bar"
+    ],
+    "Sky Diving": [
+        "Start with 15-60 minutes of training and instruction",
+        " Wear proper gear including parachute and helmet",
+        "Jump off the plane and enjoy the exhilarating freefall before deploying the parachute and landing smoothly"
+    ],
+    "Jumping Jack": [
+        "Start in a straight standing position with feet together",
+        "Jump up and land with legs spread shoulder width wide and arms above your head",
+        "Jump again and bring your feet back together while lowering your arms"
+    ],
+    "Shaving Beard": [
+        "Wash your face with warm water and apply shaving cream",
+        "Hold the razor at a short angle and start shaving with the grain",
+        "After taking one stroke, rinse the blade in water and continue shaving until the desired smoothness is achieved"
+    ],
+    "Salsa Spin": [
+        "Start with a simple turn on the dance floor",
+        "Extend your arm and lead your partner forward in a fast spin",
+        "Use your upper body to quickly spin your partner before returning to basic steps"
+    ],
+    "Brushing Teeth": [
+        "Wet your toothbrush in water",
+        "Apply toothpaste to the toothbrush",
+        "Brush your teeth for 2 minutes, spending equal time on each quadrant"
+    ],
+    "Wall Pushups": [
+        "Stand facing a wall with feet shoulder-width apart",
+        "Place your hands on the wall with your arms straight",
+        "Bend your arms and bring your chest towards the wall while keeping your body straight, and then push back to the starting position"
+    ],
+    "Baseball Pitch": [
+        "Start with your feet shoulder-width apart and hands together",
+        "Take your hands behind your back and then bring them forward at chest height",
+        "Complete the pitch with a quick motion by projecting the ball forward"
+    ],
+    "Horse Riding": [
+        "Approach your horse calmly and confidently",
+        "Steady yourself on the horse and hold the reins with both hands",
+        "Gently kick the horse into motion with your heels and steer with your hands to direct the horse"
+    ],
+    "Throw Discus": [
+        "Hold the discus flat and firmly against your fingers",
+        "Start at the back of the ring and turn in a circular motion",
+        "Twist your body and release the discus at the desired angle and height"
+    ],
+    "Push Ups": [
+        "Assume a plank position with your arms and legs extended",
+        "Lower your body towards the ground by bending your elbows",
+        "Straighten your arms to push your body back up to the starting plank position"
+    ],
+    "Field Hockey Penalty": [
+        "Stand on the ball at the designated spot",
+        "Navigate around the ball to confuse the defending goalkeeper",
+        "Push or flick the ball towards the goal with the stick, attempting to score"
+    ],
+    "Golf Swing": [
+        "Stand beside the ball with your feet shoulder-width apart",
+        "Use your arms to hold the golf club and keep your grip relaxed",
+        "Swing the club with a fluid motion, aiming to hit the ball with the center of the club face"
+    ],
+    "Jump Rope": [
+        "Start by holding the jump rope with both hands",
+        "Spin the rope around your body, swinging it over your head and towards the ground",
+        "Jump as the rope approaches the ground, timing your jump to pass over the rope"
+    ],
+    "Breast Stroke": [
+        "Pull",
+        "Breathe",
+        "Kick"
+    ],
+    "Playing Cello": [
+        "Position the cello",
+        "Bow the strings",
+        "Press the fingers on the strings"
+    ],
+    "Blowing Candles": [
+        "Light the candle",
+        "Make a wish",
+        "Blow out the candle"
+    ],
+    "Playing Daf": [
+        "Hold the daf",
+        "Strike the rim with fingers",
+        "Dampen the daf"
+    ],
+    "Playing Flute": [
+        "Decide the posture",
+        "Create the embouchure",
+        "Press the fingers on the keys"
+    ],
+    "Horse Race": [
+        "Get into the starting gate",
+        "Start the race",
+        "Cross the finish line"
+    ],
+    "Balance Beam": [
+        "Approach the beam",
+        "Perform the routine",
+        "Finish with a dismount"
+    ],
+    "Skiing": [
+        "Put on the equipment",
+        "Get on the lift",
+        "Go down the slope"
+    ],
+    "Front Crawl": [
+        "Push off the wall",
+        "Alternate arm strokes",
+        "Perform the flutter kick"
+    ],
+    "Handstand Walking": [
+        "Kick up to a handstand",
+        "Balance and walk on the hands",
+        "Lower the legs to end the handstand walk"
+    ],
+    "Head Massage": [
+        "Apply oil to the scalp",
+        "Apply pressure to acupressure points",
+        "Perform circular motions with fingers"
+    ],
+    "Basketball": [
+        "Dribble the ball",
+        "Pass the ball",
+        "Shoot the ball"
+    ],
+    "Basketball Dunk": [
+        "Approach the basket",
+        "Jump towards the basket",
+        "Slam-dunk the ball"
+    ],
+    "Ice Dancing": [
+        "Perform the required steps",
+        "Spin and twirl on the ice",
+        "End with a final pose"
+    ],
+    "Rock Climbing Indoor": [
+        "Put on the climbing gear",
+        "Ascend the wall",
+        "Touch the top hold"
+    ],
+    "Diving": [
+        "Stand at the edge of the diving board",
+        "Execute the dive",
+        "Enter the water and swim to the surface"
+    ],
+    "Pole Vault": [
+        "Run with the pole",
+        "Plant the pole and take off",
+        "Clear the bar and fall to the mat"
+    ],
+    "Kayaking": [
+        "Get inside the kayak",
+        "Hold the paddle",
+        "Paddle your way through the water"
+    ],
+    "Apply Eye Makeup": [
+        "Apply the primer and base",
+        "Put on eyeliner and eyeshadow",
+        "Finish with mascara and false lashes"
+    ],
+    "Bench Press": [
+        "Lift the bar off the rack",
+        "Lower the bar to the chest",
+        "Press the bar to the starting position"
+    ],
+    "Boxing Punching Bag": [
+        "Put on the gloves",
+        "Throw a jab-cross combination",
+        "Finish with a hook-uppercut combination"
+    ],
+    "Playing Guitar": [
+        "Tune the guitar",
+        "Position the fingers on the frets",
+        "Strum the strings"
+    ],
+    "Biking": [
+        "Adjust the seat",
+        "Pedal forward to start",
+        "Stop and dismount the bike"
+    ],
+    "Still Rings": [
+        "Start with a firm hold",
+        "Perform required postures and rotations",
+        "Land with a controlled dismount"
+    ],
+    "Pizza Tossing": [
+        "Knead and flatten the dough",
+        "Toss the dough to stretch",
+        "Add sauce, cheese and other toppings"
+    ],
+    "Surfing": [
+        "Swim out to the waves",
+        "Wait for the right wave",
+        "Ride the wave to the shore"
+    ],
+    "Playing Sitar": [
+        "Get into the sitting position",
+        "Strum the strings",
+        "Press the fingers on the frets"
+    ],
+    "Blow Dry Hair": [
+        "Shampoo and condition the hair",
+        "Towel dry the hair",
+        "Blow dry the hair section-by-section"
+    ],
+    "Band Marching": [
+        "Stand at attention",
+        "March in formation",
+        "Execute turns and stops as directed"
+    ]
+}
