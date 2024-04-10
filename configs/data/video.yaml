@@ -1,0 +1,7 @@
+_target_: src.data.video_datamodule.VideoDataModule
+n_frames: 16
+batch_size: 16
+num_workers: 8
+pin_memory: False
+input_size: 224
+limit_classes: -1

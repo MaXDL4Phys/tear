@@ -1,0 +1,27 @@
+_target_: src.models.video_module.VideoLitModule
+
+method: method
+network:
+  arch: ViT-B/32
+  frame_aggregation_method: avg
+  temperature: 1.0
+loss:
+  weight: 1.0
+solver:
+  optimizer: sgd
+  momentum: 0.9
+  weight_decay: 0.2
+  scheduler: none
+  lr: 5.e-6
+decomposition:
+  video_split_mode: no_split
+  alpha: 0.5
+  input_conditioning: False
+  use_templates: False
+  prompts: only_label
+  discrepancy_method: naive
+  similarity_ensemble:
+    window_size: 6
+analysis:
+  compute_text2text_similarities: False
+

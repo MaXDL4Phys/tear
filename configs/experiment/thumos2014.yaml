@@ -1,0 +1,7 @@
+# @package _global_
+
+data:
+  dataset: thumos2014
+  split: 1
+  train_file: txt/thumos2014_localization/test_split${data.split}.txt
+  val_file: txt/thumos2014_localization/test_split${data.split}.txt
