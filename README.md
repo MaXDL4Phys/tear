@@ -4,7 +4,6 @@
 
 # TEAR:  Text-Enhanced Zero-Shot Action Recognition
 
-the code will be released soon.
 
 <div align="center">
 
