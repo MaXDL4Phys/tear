@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../Deep_Neural_Network_with_Pytorch/.idea/Deep Neural Network with Pytorch.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="/opt/anaconda3/envs/Deep_Neural_Network_with_Pytorch/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jet-completion/.idea/jet-completion.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../kaggle/.idea/kaggle.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="/opt/anaconda3/envs/kaggle/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
