@@ -1,12 +1,11 @@
 import os
-# Description: Script to run the zsacr-ucf101 experiment with different configurations
 
 # Define values we want to iterate over
-archs=['ViT-B/16'] #, 'ViT-B/16']
-prompts = ['context']#'context', 'decomposition', 'all','description', 'decomposition', 'context', 'situation',
-models = ['simple'] #, 'ensemble']
-templates = ['True']#, 'False']
-conditionings = ['True']#, 'False']
+archs=['ViT-B/16', 'ViT-B/16']
+prompts = ['context', 'decomposition', 'all','description', 'decomposition', 'context', 'situation',]
+models = ['simple', 'ensemble']
+templates = ['True', 'False']
+conditionings = ['True', 'False']
 
 # Iterate over the values and run the appropriate command
 for arch in archs:
@@ -30,7 +29,7 @@ for arch in archs:
                     model.network.temperature=0.5 \
                     logger.wandb.offline=False \
                     logger.wandb.tags=["t_1"] \
-                    logger.wandb.project="zsacr-hmdb-gpt4o-{name}" \
+                    logger.wandb.project="zsacr-hmdb-llama-{name}" \
                     logger.wandb.name={name}-{prompt}-{model}-{template}-{conditioning} \
                     trainer=gpu \
                     trainer.devices=1 \
