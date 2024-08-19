@@ -1,0 +1,11 @@
+# @package _global_
+
+data:
+  dataset: k600_split
+  split: 1
+#  train_file: /home/mbosetti/LDARL/txt/k600/trainlist0${data.split}.txt
+#  val_file: /home/mbosetti/LDARL/txt/k600/trainlist0${data.split}.txt
+
+#  val_file: /home/mbosetti/LDARL/txt/k600/k600_val.txt
+  val_file: /home/mbosetti/LDARL/txt/k600_split/zero_k200_split_${data.split}.txt
+  train_file: /home/mbosetti/LDARL/txt/k600_split/zero_k200_split_${data.split}.txt

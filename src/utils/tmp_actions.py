@@ -1,6 +1,6 @@
 from src.utils.utils import  (find_unique_classes, find_duplicates,
                               process_and_assign_id_k600, lowercase_subfolders)
-4
+
 
 # # Assuming the input text is saved in a file named 'raw_entries.txt'
 # input_file_name = '/home/mbosetti/LDARL/txt/k600/k600_val_label.txt'

@@ -1,0 +1,302 @@
+{
+  "flic flac": [
+    "take off from one foot",
+    "perform a quick step or skip",
+    "land on the other foot"
+  ],
+  "hit": [
+    "pull back arm",
+    "swing arm forward",
+    "make contact with target"
+  ],
+  "run": [
+    "lean forward",
+    "move legs in a cyclic motion",
+    "swing arms alternately"
+  ],
+  "kiss": [
+    "lean in towards each other",
+    "close eyes and tilt heads",
+    "press lips together"
+  ],
+  "talk": [
+    "open mouth",
+    "vibrate vocal cords",
+    "articulate words with tongue and lips"
+  ],
+  "shoot bow": [
+    "draw the arrow",
+    "aim at the target",
+    "release the arrow"
+  ],
+  "eat": [
+    "pick up food",
+    "bring food to mouth",
+    "chew and swallow"
+  ],
+  "stand": [
+    "bend knees",
+    "push up with legs",
+    "straighten the back"
+  ],
+  "shoot gun": [
+    "aim the gun",
+    "pull the trigger",
+    "recoil and discharge"
+  ],
+  "kick": [
+    "shift weight to one leg",
+    "pull back the other leg",
+    "swing the leg forward to strike"
+  ],
+  "situp": [
+    "lie on your back",
+    "bend your knees and place feet flat on the ground",
+    "lift upper body towards knees"
+  ],
+  "pick": [
+    "reach out hand",
+    "grasp the object",
+    "lift the object"
+  ],
+  "somersault": [
+    "crouch down",
+    "tuck in head and push off with legs",
+    "roll forward and land on feet"
+  ],
+  "golf": [
+    "set up stance and grip",
+    "swing the club back",
+    "swing the club forward and hit the ball"
+  ],
+  "clap": [
+    "raise hands",
+    "bring hands together",
+    "make contact to create sound"
+  ],
+  "draw sword": [
+    "grasp sword hilt",
+    "pull sword from sheath",
+    "raise sword to ready position"
+  ],
+  "handstand": [
+    "place hands on the ground",
+    "kick legs up",
+    "balance with body inverted"
+  ],
+  "wave": [
+    "raise hand",
+    "move hand side to side",
+    "lower hand"
+  ],
+  "brush hair": [
+    "hold brush handle",
+    "raise brush to hair",
+    "move brush through hair"
+  ],
+  "shoot ball": [
+    "align body towards target",
+    "pull back the shooting arm",
+    "thrust arm forward and release ball"
+  ],
+  "pullup": [
+    "grasp bar with both hands",
+    "pull body upward",
+    "lower body back down"
+  ],
+  "fencing": [
+    "assume en garde position",
+    "lunge towards opponent",
+    "attempt to touch opponent with weapon"
+  ],
+  "laugh": [
+    "observe or think of something funny",
+    "inhale deeply",
+    "emit vocal sounds while exhaling"
+  ],
+  "smile": [
+    "observe or feel something positive",
+    "contract facial muscles",
+    "display upturned lips"
+  ],
+  "turn": [
+    "pivot one foot",
+    "rotate body",
+    "place other foot in new direction"
+  ],
+  "climb": [
+    "grasp hold with hands",
+    "place feet on footholds",
+    "pull body upward"
+  ],
+  "climb stairs": [
+    "place one foot on the step",
+    "push off with lower foot",
+    "lift other foot onto the next step"
+  ],
+  "chew": [
+    "close mouth around food",
+    "move jaws to grind food",
+    "mix food with saliva and swallow"
+  ],
+  "smoke": [
+    "hold cigarette to mouth",
+    "inhale to draw smoke",
+    "exhale smoke"
+  ],
+  "ride bike": [
+    "mount the bike",
+    "pedal to gain momentum",
+    "steer and balance while riding"
+  ],
+  "sword": [
+    "grasp sword handle",
+    "draw sword from sheath",
+    "position sword for action"
+  ],
+  "fall floor": [
+    "lose balance or footing",
+    "descend towards the ground",
+    "make contact with the floor"
+  ],
+  "drink": [
+    "lift beverage container to mouth",
+    "tilt container to pour liquid",
+    "swallow the liquid"
+  ],
+  "hug": [
+    "extend arms towards person",
+    "wrap arms around person",
+    "pull person close"
+  ],
+  "cartwheel": [
+    "place hands on the ground",
+    "kick legs up and over",
+    "land on feet"
+  ],
+  "punch": [
+    "clench fist",
+    "pull back arm",
+    "thrust arm forward to strike"
+  ],
+  "jump": [
+    "bend knees",
+    "push off ground with legs",
+    "rise into the air"
+  ],
+  "pushup": [
+    "place hands on the ground shoulder-width apart",
+    "extend legs and balance on toes",
+    "lower and raise body by bending and straightening arms"
+  ],
+  "push": [
+    "extend arms towards object",
+    "apply force with hands",
+    "move object away from body"
+  ],
+  "ride horse": [
+    "mount the horse",
+    "hold reins and sit upright",
+    "use legs and reins to guide horse forward"
+  ],
+  "swing baseball": [
+    "position feet and grip bat",
+    "rotate hips and shoulders",
+    "swing bat to hit the ball"
+  ],
+  "throw": [
+    "grip object in hand",
+    "pull arm back",
+    "thrust arm forward and release object"
+  ],
+  "dribble": [
+    "bounce ball with one hand",
+    "push ball towards the ground",
+    "repeat the motion to keep ball bouncing"
+  ],
+  "sit": [
+    "approach the seat",
+    "bend knees and hips",
+    "lower body onto seat"
+  ],
+  "kick ball": [
+    "approach the ball",
+    "swing leg back",
+    "swing leg forward and make contact with the ball"
+  ],
+  "dive": [
+    "stand at platform edge",
+    "jump forward and extend body",
+    "enter the water headfirst"
+  ],
+  "pour": [
+    "hold container with liquid",
+    "tilt container towards receiving vessel",
+    "control flow and stop pouring"
+  ],
+  "catch": [
+    "watch approaching object",
+    "extend hands towards object",
+    "close hands around object"
+  ],
+  "sword exercise": [
+    "grasp sword handle",
+    "perform a series of swings and thrusts",
+    "return sword to beginning position"
+  ],
+  "shake hands": [
+    "extend hand towards other person",
+    "grasp their hand firmly",
+    "move hands up and down together"
+  ],
+  "walk": [
+    "lift one foot",
+    "move it forward and place it down",
+    "repeat with the other foot"
+  ],
+  "Typing": [
+    "place fingers on keyboard",
+    "press keys to form words",
+    "release keys and repeat"
+  ],
+  "Rowing": [
+    "grasp oars",
+    "push off with legs and lean back",
+    "pull oars through water and repeat"
+  ],
+  "High Jump": [
+    "approach the bar with speed and momentum",
+    "take off from one foot and launch upwards",
+    "clear the bar and land on the mat"
+  ],
+  "Hand stand Pushups": [
+    "kick up into a handstand against a wall",
+    "lower body by bending elbows",
+    "push body back up to straight arms"
+  ],
+  "Nunchucks": [
+    "grip one handle of the nunchucks",
+    "swing the connected handle in controlled motions",
+    "perform strikes, blocks, and spins"
+  ],
+  "Cliff Diving": [
+    "approach the edge of the cliff",
+    "leap off into the air",
+    "execute dive and enter water feet or head first"
+  ],
+  "Swing": [
+    "sit on swing seat",
+    "kick legs forward and lean back",
+    "pull legs back and lean forward to gain momentum"
+  ],
+  "Frisbee Catch": [
+    "run towards the flying frisbee",
+    "extend hand to catch",
+    "secure the frisbee with grip"
+  ],
+  "Sumo Wrestling": [
+    "take wide stance",
+    "charge at opponent",
+    "grapple and try to push or throw opponent out"
+  ]
+}

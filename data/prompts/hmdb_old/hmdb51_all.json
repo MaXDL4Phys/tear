@@ -1,0 +1,572 @@
+{
+  "flic flac": [
+      "bend_knees",
+      "swing_legs",
+      "land"
+   ,
+      "a person or people in a dynamic motion",
+      "person"
+    ],
+  "hit": [
+      "punch_extend_arm",
+      "make_contact",
+      "retract_arm"
+   ,
+      "A hand or object strikes a surface."
+   ,
+      "a person or people in a dynamic motion",
+      "person",
+      "object to hit"
+    ],
+  "run": [
+      "start_forward_motion",
+      "strides",
+      "stop"
+   ,
+      "A person's legs move quickly to propel them forward."
+   ,
+      "a person or people in a dynamic motion",
+      "person"
+    ],
+  "kiss": [
+      "approach_face",
+      "make_contact_with_lips",
+      "separate"
+   ,
+      "Two people press their lips together."
+   ,
+      "two people close together",
+      "people",
+      "face"
+    ],
+  "talk": [
+      "open_mouth",
+      "form_words",
+      "utter_sounds"
+   ,
+      "A person's mouth opens and closes to form words."
+   ,
+      "two or more people face-to-face",
+      "people",
+      "mouth"
+    ],
+  "shoot bow": [
+      "draw_bowstring",
+      "aim_at_target",
+      "release_arrow"
+   ,
+      "An arrow is released from a bow."
+   ,
+      "a person with a bow and arrow",
+      "person",
+      "bow",
+      "arrow"
+    ],
+  "eat": [
+      "pick_up_food",
+      "bring_to_mouth",
+      "ingest"
+   ,
+      "A person takes food into their mouth and chews."
+   ,
+      "a person consuming food or drink",
+      "person",
+      "food/drink",
+      "table/chair"
+    ],
+  "stand": [
+      "transfer_weight",
+      "straighten_legs",
+      "balance"
+   ,
+      "A person supports their body weight on their feet."
+   ,
+      "a person in a standing position",
+      "person",
+      "legs"
+    ],
+  "shoot gun": [
+      "load_gun",
+      "point_at_target",
+      "fire_bullet"
+   ,
+      "A projectile is fired from a firearm."
+   ,
+      "a person shooting a target or object",
+      "person",
+      "gun",
+      "target"
+    ],
+  "kick": [
+      "lift_leg",
+      "extend_foot",
+      "strike_object"
+   ,
+      "A foot strikes an object or another person."
+   ,
+      "a person kicking something or someone",
+      "person",
+      "foot",
+      "object"
+    ],
+  "situp": [
+      "start_sitting_up",
+      "raise_chest",
+      "maintain_position"
+   ,
+      "A person raises themselves to a standing position from a seated one."
+   ,
+      "a person doing sit-ups",
+      "person",
+      "body",
+      "mat"
+    ],
+  "pick": [
+      "reach_for_object",
+      "grasp_object",
+      "lift"
+   ,
+      "A finger or tool selects and lifts an object."
+   ,
+      "a person picking something up",
+      "person",
+      "hand",
+      "object"
+    ],
+  "somersault": [
+      "start_rotating",
+      "roll_through_air",
+      "land"
+   ,
+      "A person's body rotates in the air, often with arms and legs extended."
+   ,
+      "a person performing a somersault",
+      "person",
+      "body"
+    ],
+  "golf": [
+      "swing_club",
+      "hit_ball",
+      "follow_through"
+   ,
+      "A club strikes a ball, which then rolls through the course."
+   ,
+      "a person playing golf",
+      "person",
+      "club",
+      "ball"
+    ],
+  "clap": [
+      "raise_hands",
+      "make_contact_with_palms",
+      "lower_hands"
+   ,
+      "Two hands come together to create a sharp sound."
+   ,
+      "one or more people clapping",
+      "people",
+      "hands"
+    ],
+  "draw sword": [
+      "unsheath_sword",
+      "hold_weapon",
+      "prepare_to_attack"
+   ,
+      "A person removes a sword from its scabbard or sheath."
+   ,
+      "a person drawing a sword",
+      "person",
+      "sword"
+    ],
+  "handstand": [
+      "start_inverted",
+      "balance_on_hands",
+      "maintain_position"
+   ,
+      "A person balances on their hands in an inverted position."
+   ,
+      "a person doing a handstand",
+      "person",
+      "body"
+    ],
+  "wave": [
+      "lift_arm",
+      "extend_hand",
+      "move_in_a_wave_like_motion"
+   ,
+      "A hand moves up and down or side to side to signal greeting."
+   ,
+      "one or more people waving",
+      "people",
+      "hands"
+    ],
+  "brush hair": [
+      "take_up_broom",
+      "brush_through_hair",
+      "style"
+   ,
+      "A brush is used to style and move hair around the head."
+   ,
+      "a person brushing their hair",
+      "person",
+      "hairbrush"
+    ],
+  "shoot ball": [
+      "throw_ball",
+      "aim_at_target",
+      "release"
+   ,
+      "An object, often a sports ball, is thrown or kicked through the air."
+   ,
+      "a person shooting a ball",
+      "person",
+      "hand",
+      "ball"
+    ],
+  "pullup": [
+      "start_hanging",
+      "pull_up_body",
+      "maintain_position"
+   ,
+      "A person raises themselves up by pulling on an overhead bar."
+   ,
+      "a person exercising or stretching",
+      "person",
+      "bar"
+    ],
+  "fencing": [
+      "hold_sword",
+      "parry_attack",
+      "riposte"
+   ,
+      "Two people engage in combat with swords, shields, and agility."
+   ,
+      "two people fencing",
+      "people",
+      "swords"
+    ],
+  "laugh": [
+      "open_mouth",
+      "vibrate_vocal_cords",
+      "release_joyful_sound"
+   ,
+      "A person's mouth opens and closes to express amusement."
+   ,
+      "one or more people laughing",
+      "people",
+      "mouth"
+    ],
+  "smile": [
+      "raise_corner_of_mouth",
+      "relax_face",
+      "show_happiness"
+   ,
+      "The corners of a person's mouth curve upward to show happiness."
+   ,
+      "one or more people smiling",
+      "people",
+      "face"
+    ],
+  "turn": [
+      "start_turning",
+      "rotate_body",
+      "stop"
+   ,
+      "A person rotates their body or head to face another direction."
+   ,
+      "a person turning around",
+      "person",
+      "body"
+    ],
+  "climb": [
+      "start_climbing",
+      "find_handhold",
+      "ascend"
+   ,
+      "A person ascends a surface using hands, feet, or other limbs."
+   ,
+      "a person climbing something",
+      "person",
+      "surface to climb"
+    ],
+  "climb stairs": [
+      "start_up_stairs",
+      "step_up",
+      "reach_top"
+   ,
+      "A person walks up and down steps using their legs and arms for balance."
+   ,
+      "a person climbing stairs",
+      "person",
+      "stairs"
+    ],
+  "chew": [
+      "take_food_into_mouth",
+      "masticate",
+      "swallow"
+   ,
+      "Food is broken down in the mouth through mechanical action."
+   ,
+      "a person eating or drinking",
+      "person",
+      "food"
+    ],
+  "smoke": [
+      "light_cigarette",
+      "inhale_tobacco_smoke",
+      "exhale"
+   ,
+      "A person exhales air with visible particles of smoke."
+   ,
+      "a person smoking a cigarette",
+      "person",
+      "cigarette"
+    ],
+  "ride bike": [
+      "mount_bike",
+      "pedal_cycle",
+      "steer"
+   ,
+      "A person balances on a bicycle as it moves forward."
+   ,
+      "a person riding a bike",
+      "person",
+      "bike"
+    ],
+  "sword": [
+      "unsheathe_sword",
+      "hold_weapon",
+      "prepare_to_attack"
+   ,
+      "A person wields or handles a sword, often in a dramatic or ceremonial manner."
+   ,
+      "a person holding a sword",
+      "person",
+      "sword"
+    ],
+  "fall floor": [
+      "start_falling",
+      "hit_ground",
+      "land"
+   ,
+      "A person's body descends to the ground due to gravity."
+   ,
+      "a person falling or lying on the ground",
+      "person"
+    ],
+  "drink": [
+      "lift_drink",
+      "bring_to_mouth",
+      "ingest"
+   ,
+      "A person takes liquids into their mouth and swallows."
+   ,
+      "a person drinking from a cup or bottle",
+      "person",
+      "cup/bottle"
+    ],
+  "hug": [
+      "wrap_arms",
+      "squeeze_body",
+      "show_affection"
+   ,
+      "Two people press their bodies together in a gesture of affection."
+   ,
+      "two people hugging each other",
+      "people",
+      "arms"
+    ],
+  "cartwheel": [
+      "start_spinning",
+      "rotate_through_air",
+      "land"
+   ,
+      "A person rotates their body through the air, often with arms and legs extended."
+   ,
+      "a person doing a cartwheel",
+      "person"
+    ],
+  "punch": [
+      "raise_hand",
+      "extend_arm",
+      "strike_object"
+   ,
+      "A hand strikes an object or another person's face."
+   ,
+      "a person punching someone or something",
+      "person",
+      "hand"
+    ],
+  "jump": [
+      "start_jumping",
+      "propel_self_into_air",
+      "land"
+   ,
+      "A person's body rapidly rises into the air before returning to the ground."
+   ,
+      "a person jumping up and down",
+      "person",
+      "legs"
+    ],
+  "pushup": [
+      "start_pushing_up",
+      "lower_body",
+      "push_back_up"
+   ,
+      "A person lowers and raises their body using their hands and arms."
+   ,
+      "a person doing push-ups",
+      "person",
+      "mat"
+    ],
+  "push": [
+      "apply_force",
+      "move_object",
+      "stop"
+   ,
+      "A person applies force to an object or another person."
+   ,
+      "a person pushing something or someone",
+      "person",
+      "hand"
+    ],
+  "ride horse": [
+      "mount_horse",
+      "control_animal",
+      "ride"
+   ,
+      "A person sits on a horse as it moves forward, often with reins in hand."
+   ,
+      "a person riding a horse",
+      "person",
+      "horse"
+    ],
+  "swing baseball": [
+      "hold_bat",
+      "swing_at_ball",
+      "follow_through"
+   ,
+      "A bat strikes a ball, often in a swinging motion through the air."
+   ,
+      "a person swinging a baseball bat",
+      "person",
+      "bat",
+      "ball"
+    ],
+  "throw": [
+      "start_throwing",
+      "release_object",
+      "track_path"
+   ,
+      "A person propels an object through the air using their arm and hand."
+   ,
+      "a person throwing something",
+      "person",
+      "hand",
+      "object to throw"
+    ],
+  "dribble": [
+      "bounce_ball",
+      "maneuver_object",
+      "score"
+   ,
+      "A person holds a ball or other object and manipulates it with their hands."
+   ,
+      "a person dribbling a ball",
+      "person",
+      "ball",
+      "hand"
+    ],
+  "sit": [
+      "transfer_weight",
+      "straighten_legs",
+      "balance"
+   ,
+      "A person supports their body weight on their buttocks."
+   ,
+      "a person sitting down",
+      "person",
+      "chair"
+    ],
+  "kick ball": [
+      "lift_foot",
+      "kick_ball",
+      "follow_through"
+   ,
+      "A foot strikes a ball, often in a kicking motion."
+   ,
+      "a person kicking a ball",
+      "person",
+      "ball",
+      "foot"
+    ],
+  "dive": [
+      "start_diving",
+      "plunge_into_water",
+      "resurface"
+   ,
+      "A person's body rapidly descends into the air before returning to the ground."
+   ,
+      "a person diving into water",
+      "person",
+      "water"
+    ],
+  "pour": [
+      "hold_container",
+      "tilt_object",
+      "release_fluid"
+   ,
+      "A liquid flows from one container to another due to gravity."
+   ,
+      "a person pouring liquid from one container to another",
+      "person",
+      "liquid",
+      "containers"
+    ],
+  "catch": [
+      "track_object",
+      "extend_hand",
+      "secure_catch"
+   ,
+      "A person receives and holds an object or ball."
+   ,
+      "a person catching something",
+      "person",
+      "hand",
+      "object to catch"
+    ],
+  "sword exercise": [
+      "unfurl_sword",
+      "execute_maneuver",
+      "retract"
+   ,
+      "A person practices movements with a sword, often in a martial arts setting."
+   ,
+      "a person exercising or stretching with a sword",
+      "person",
+      "sword",
+      "mat"
+    ],
+  "shake hands": [
+      "extend_hands",
+      "make_contact",
+      "separate"
+   ,
+      "Two people grasp each other's hand in a gesture of greeting or agreement."
+   ,
+      "two people shaking hands",
+      "people",
+      "hands"
+    ],
+  "walk": [
+      "start_walking",
+      "transfer_weight",
+      "step_forward"
+   ,
+      "A person moves their legs to propel themselves forward while standing upright."
+   ,
+      "a person walking",
+      "person",
+      "legs"
+    ]
+}

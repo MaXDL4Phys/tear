@@ -1,0 +1,277 @@
+{
+  "flic flac": [
+    "a gymnastics or acrobatics floor",
+    "person",
+    "gymnastics mat"
+  ],
+  "hit": [
+    "a space where two or more entities can collide",
+    "person",
+    "object",
+    "animal"
+  ],
+  "run": [
+    "an outdoor or indoor setting suitable for running",
+    "person",
+    "running shoes"
+  ],
+  "kiss": [
+    "a romantic or intimate setting",
+    "two people"
+  ],
+  "talk": [
+    "a setting where communication takes place",
+    "person",
+    "microphone",
+    "table"
+  ],
+  "shoot bow": [
+    "an archery range or forest",
+    "person",
+    "bow",
+    "arrow",
+    "target"
+  ],
+  "eat": [
+    "a dining table or a dining area",
+    "person",
+    "plate",
+    "utensils",
+    "food"
+  ],
+  "stand": [
+    "any stable surface suitable for standing",
+    "person"
+  ],
+  "shoot gun": [
+    "a shooting range or combat zone",
+    "person",
+    "gun",
+    "ammunition",
+    "target"
+  ],
+  "kick": [
+    "an open or closed space where the act of kicking is pertinent",
+    "person",
+    "object",
+    "ball"
+  ],
+  "situp": [
+    "a fitness or exercise related setting",
+    "person",
+    "fitness mat"
+  ],
+  "pick": [
+    "a space where objects are present that can be picked up",
+    "person",
+    "object"
+  ],
+  "somersault": [
+    "a gymnastics or acrobatics floor",
+    "person",
+    "gymnastics mat"
+  ],
+  "golf": [
+    "a golf course",
+    "golf club",
+    "golf ball",
+    "hole",
+    "golfer",
+    "golf cart"
+  ],
+  "clap": [
+    "a place where people gather or perform",
+    "person"
+  ],
+  "draw sword": [
+    "a historical reenactment or theatrical setting",
+    "person",
+    "sword"
+  ],
+  "handstand": [
+    "a gymnastics or calisthenics setting",
+    "person",
+    "open space"
+  ],
+  "wave": [
+    "a greeting or farewell setting",
+    "person",
+    "hand"
+  ],
+  "brush hair": [
+    "an indoor setting such as a bedroom or bathroom",
+    "person",
+    "hairbrush"
+  ],
+  "shoot ball": [
+    "an indoor or outdoor space suitable for playing ball",
+    "person",
+    "ball",
+    "basketball hoop",
+    "goal post"
+  ],
+  "pullup": [
+    "a gym or exercise setting",
+    "person",
+    "pull-up bar"
+  ],
+  "fencing": [
+    "a fencing practice, competition or theatrical setting",
+    "fencing sword",
+    "protective gear",
+    "fencer"
+  ],
+  "laugh": [
+    "a social or entertainment setting",
+    "person"
+  ],
+  "smile": [
+    "a social or entertainment setting",
+    "person"
+  ],
+  "turn": [
+    "an open or closed space where turning is pertinent",
+    "person",
+    "object"
+  ],
+  "climb": [
+    "a setting with a vertical surface suitable for climbing",
+    "person",
+    "climbing gear"
+  ],
+  "climb stairs": [
+    "a building or structure with stairs",
+    "person",
+    "stairs"
+  ],
+  "chew": [
+    "an indoor or outdoor area where eating or chewing is taking place",
+    "person",
+    "food"
+  ],
+  "smoke": [
+    "an outdoor or indoor area where smoking is done",
+    "person",
+    "cigarette",
+    "ashtray"
+  ],
+  "ride bike": [
+    "an outdoor or indoor setting suitable for riding a bike",
+    "person",
+    "bicycle",
+    "helmet"
+  ],
+  "sword": [
+    "a historical reenactment or theatrical setting",
+    "person",
+    "sword"
+  ],
+  "fall floor": [
+    "an open or closed space where people can fall",
+    "person",
+    "floor"
+  ],
+  "drink": [
+    "an indoor or outdoor area where drinking or beverages are served",
+    "person",
+    "drink"
+  ],
+  "hug": [
+    "a social or romantic setting",
+    "two people"
+  ],
+  "cartwheel": [
+    "a gymnastics or acrobatics floor",
+    "person",
+    "open floor"
+  ],
+  "punch": [
+    "a fighting or boxing setting",
+    "person",
+    "punching bag",
+    "boxing gloves"
+  ],
+  "jump": [
+    "an indoor or outdoor setting suitable for jumping",
+    "person",
+    "surface"
+  ],
+  "pushup": [
+    "a fitness or exercise related setting",
+    "person",
+    "fitness mat"
+  ],
+  "push": [
+    "a setting where two or more objects/people are in contact",
+    "person",
+    "object"
+  ],
+  "ride horse": [
+    "an equestrian or rural setting",
+    "person",
+    "horse"
+  ],
+  "swing baseball": [
+    "a baseball field or indoor setting",
+    "person",
+    "baseball bat",
+    "baseball",
+    "glove"
+  ],
+  "throw": [
+    "an indoor or outdoor setting where throwing may occur",
+    "person",
+    "object",
+    "ball"
+  ],
+  "dribble": [
+    "an indoor or outdoor setting suitable for dribbling",
+    "person",
+    "basketball",
+    "soccer ball",
+    "surface"
+  ],
+  "sit": [
+    "any surface suitable for sitting",
+    "person"
+  ],
+  "kick ball": [
+    "an indoor or outdoor space suitable for playing ball",
+    "person",
+    "ball",
+    "goal post"
+  ],
+  "dive": [
+    "a water-related setting such as a swimming pool, sea or ocean",
+    "person",
+    "diving board",
+    "water"
+  ],
+  "pour": [
+    "an indoor or outdoor area where liquid is served or handled",
+    "person",
+    "container",
+    "liquid"
+  ],
+  "catch": [
+    "an indoor or outdoor setting where a ball or object may be thrown",
+    "person",
+    "ball",
+    "glove"
+  ],
+  "sword exercise": [
+    "a historical reenactment or theatrical setting",
+    "person",
+    "sword"
+  ],
+  "shake hands": [
+    "a formal or professional setting",
+    "two people",
+    "hands"
+  ],
+  "walk": [
+    "an indoor or outdoor setting suitable for walking",
+    "person",
+    "shoes"
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "flic flac": [
+    [
+      "bend_knees",
+      "swing_legs",
+      "land"
+    ],
+    [
+      "A person performing a gymnastic flip, usually on a gym mat."
+    ],
+    [
+      "a person performing a gymnastic flip",
+      "person",
+      "gym mat"
+    ]
+  ],
+  "hit": [
+    [
+      "punch_extend_arm",
+      "make_contact",
+      "retract_arm"
+    ],
+    [
+      "A person making contact with another object or person."
+    ],
+    [
+      "a person making contact with another object or person",
+      "person",
+      "target object"
+    ]
+  ],
+  "run": [
+    [
+      "start_forward_motion",
+      "strides",
+      "stop"
+    ],
+    [
+      "A person moving quickly on foot, often wearing running shoes."
+    ],
+    [
+      "a person moving quickly on foot",
+      "person",
+      "running shoes",
+      "ground"
+    ]
+  ],
+  "kiss": [
+    [
+      "approach_face",
+      "make_contact_with_lips",
+      "separate"
+    ],
+    [
+      "Two people leaning towards each other, often pressing their lips together."
+    ],
+    [
+      "two people leaning towards each other",
+      "two people"
+    ]
+  ],
+  "talk": [
+    [
+      "open_mouth",
+      "form_words",
+      "utter_sounds"
+    ],
+    [
+      "A person or group engaged in conversation, with visible mouth movements."
+    ],
+    [
+      "a person or group engaged in conversation",
+      "person",
+      "mouth"
+    ]
+  ],
+  "shoot bow": [
+    [
+      "draw_bowstring",
+      "aim_at_target",
+      "release_arrow"
+    ],
+    [
+      "A person drawing and releasing an arrow from a bow, often aiming at a target."
+    ],
+    [
+      "a person drawing and releasing an arrow from a bow",
+      "person",
+      "bow",
+      "arrow",
+      "target"
+    ]
+  ],
+  "eat": [
+    [
+      "pick_up_food",
+      "bring_to_mouth",
+      "ingest"
+    ],
+    [
+      "A person consuming food, typically using utensils or hands."
+    ],
+    [
+      "a person consuming food",
+      "person",
+      "food",
+      "utensils"
+    ]
+  ],
+  "stand": [
+    [
+      "transfer_weight",
+      "straighten_legs",
+      "balance"
+    ],
+    [
+      "A person in an upright position on their feet."
+    ],
+    [
+      "a person in an upright position",
+      "person"
+    ]
+  ],
+  "shoot gun": [
+    [
+      "load_gun",
+      "point_at_target",
+      "fire_bullet"
+    ],
+    [
+      "A person aiming and firing a gun, often at a target."
+    ],
+    [
+      "a person aiming and firing a gun",
+      "person",
+      "gun",
+      "target"
+    ]
+  ],
+  "kick": [
+    [
+      "lift_leg",
+      "extend_foot",
+      "strike_object"
+    ],
+    [
+      "A person swinging their leg to make contact with an object or another person."
+    ],
+    [
+      "a person swinging their leg to make contact",
+      "person",
+      "target object"
+    ]
+  ],
+  "situp": [
+    [
+      "start_sitting_up",
+      "raise_chest",
+      "maintain_position"
+    ],
+    [
+      "A person lying down and lifting their upper body towards their knees."
+    ],
+    [
+      "a person lying down and lifting their upper body",
+      "person",
+      "exercise mat"
+    ]
+  ],
+  "pick": [
+    [
+      "reach_for_object",
+      "grasp_object",
+      "lift"
+    ],
+    [
+      "A person reaching out and grasping an object."
+    ],
+    [
+      "a person reaching out and grasping an object",
+      "person",
+      "object"
+    ]
+  ],
+  "somersault": [
+    [
+      "start_rotating",
+      "roll_through_air",
+      "land"
+    ],
+    [
+      "A person performing a forward or backward roll, often on a gym mat."
+    ],
+    [
+      "a person performing a forward or backward roll",
+      "person",
+      "gym mat"
+    ]
+  ],
+  "golf": [
+    [
+      "swing_club",
+      "hit_ball",
+      "follow_through"
+    ],
+    [
+      "A person swinging a club to hit a ball, usually on a golf course."
+    ],
+    [
+      "a person swinging a club to hit a ball",
+      "person",
+      "golf club",
+      "golf ball"
+    ]
+  ],
+  "clap": [
+    [
+      "raise_hands",
+      "make_contact_with_palms",
+      "lower_hands"
+    ],
+    [
+      "A person bringing their hands together to make a sound."
+    ],
+    [
+      "a person bringing their hands together to make a sound",
+      "person",
+      "hands"
+    ]
+  ],
+  "draw sword": [
+    [
+      "unsheath_sword",
+      "hold_weapon",
+      "prepare_to_attack"
+    ],
+    [
+      "A person unsheathing a sword, often raising it to a ready position."
+    ],
+    [
+      "a person unsheathing a sword",
+      "person",
+      "sword",
+      "sheath"
+    ]
+  ],
+  "handstand": [
+    [
+      "start_inverted",
+      "balance_on_hands",
+      "maintain_position"
+    ],
+    [
+      "A person balancing on their hands with feet in the air."
+    ],
+    [
+      "a person balancing on their hands with feet in the air",
+      "person",
+      "ground"
+    ]
+  ],
+  "wave": [
+    [
+      "lift_arm",
+      "extend_hand",
+      "move_in_a_wave_like_motion"
+    ],
+    [
+      "A person moving their hand side to side as a gesture."
+    ],
+    [
+      "a person moving their hand side to side",
+      "person",
+      "hand"
+    ]
+  ],
+  "brush hair": [
+    [
+      "take_up_broom",
+      "brush_through_hair",
+      "style"
+    ],
+    [
+      "A person grooming their hair with a brush."
+    ],
+    [
+      "a person grooming their hair with a brush",
+      "person",
+      "hair brush"
+    ]
+  ],
+  "shoot ball": [
+    [
+      "throw_ball",
+      "aim_at_target",
+      "release"
+    ],
+    [
+      "A person throwing a ball towards a target, often in sports."
+    ],
+    [
+      "a person throwing a ball towards a target",
+      "person",
+      "ball",
+      "target"
+    ]
+  ],
+  "pullup": [
+    [
+      "start_hanging",
+      "pull_up_body",
+      "maintain_position"
+    ],
+    [
+      "A person lifting their body up by pulling on a bar."
+    ],
+    [
+      "a person lifting their body up by pulling on a bar",
+      "person",
+      "pull-up bar"
+    ]
+  ],
+  "fencing": [
+    [
+      "hold_sword",
+      "parry_attack",
+      "riposte"
+    ],
+    [
+      "Two people engaged in a fencing match with protective gear and swords."
+    ],
+    [
+      "two people engaged in a fencing match",
+      "people",
+      "fencing swords",
+      "protective gear"
+    ]
+  ],
+  "laugh": [
+    [
+      "open_mouth",
+      "vibrate_vocal_cords",
+      "release_joyful_sound"
+    ],
+    [
+      "A person expressing amusement, often with visible mouth movements."
+    ],
+    [
+      "a person expressing amusement",
+      "person",
+      "mouth"
+    ]
+  ],
+  "smile": [
+    [
+      "raise_corner_of_mouth",
+      "relax_face",
+      "show_happiness"
+    ],
+    [
+      "A person showing a happy facial expression with upturned lips."
+    ],
+    [
+      "a person showing a happy facial expression",
+      "person",
+      "mouth"
+    ]
+  ],
+  "turn": [
+    [
+      "start_turning",
+      "rotate_body",
+      "stop"
+    ],
+    [
+      "A person rotating their body."
+    ],
+    [
+      "a person rotating their body",
+      "person"
+    ]
+  ],
+  "climb": [
+    [
+      "start_climbing",
+      "find_handhold",
+      "ascend"
+    ],
+    [
+      "A person ascending a vertical surface, using hands and feet."
+    ],
+    [
+      "a person ascending a vertical surface",
+      "person",
+      "climbing holds"
+    ]
+  ],
+  "climb stairs": [
+    [
+      "start_up_stairs",
+      "step_up",
+      "reach_top"
+    ],
+    [
+      "A person ascending a staircase."
+    ],
+    [
+      "a person ascending a staircase",
+      "person",
+      "stairs"
+    ]
+  ],
+  "chew": [
+    [
+      "take_food_into_mouth",
+      "masticate",
+      "swallow"
+    ],
+    [
+      "A person grinding food with their teeth."
+    ],
+    [
+      "a person grinding food with their teeth",
+      "person",
+      "food",
+      "teeth"
+    ]
+  ],
+  "smoke": [
+    [
+      "light_cigarette",
+      "inhale_tobacco_smoke",
+      "exhale"
+    ],
+    [
+      "A person inhaling and exhaling smoke from a cigarette."
+    ],
+    [
+      "a person inhaling and exhaling smoke from a cigarette",
+      "person",
+      "cigarette"
+    ]
+  ],
+  "ride bike": [
+    [
+      "mount_bike",
+      "pedal_cycle",
+      "steer"
+    ],
+    [
+      "A person pedaling a bicycle."
+    ],
+    [
+      "a person pedaling a bicycle",
+      "person",
+      "bicycle"
+    ]
+  ],
+  "sword": [
+    [
+      "unsheathe_sword",
+      "hold_weapon",
+      "prepare_to_attack"
+    ],
+    [
+      "A person handling a sword, often in a combat or training scenario."
+    ],
+    [
+      "a person handling a sword",
+      "person",
+      "sword"
+    ]
+  ],
+  "fall floor": [
+    [
+      "start_falling",
+      "hit_ground",
+      "land"
+    ],
+    [
+      "A person losing balance and hitting the ground."
+    ],
+    [
+      "a person losing balance and hitting the ground",
+      "person",
+      "floor"
+    ]
+  ],
+  "drink": [
+    [
+      "lift_drink",
+      "bring_to_mouth",
+      "ingest"
+    ],
+    [
+      "A person consuming a liquid from a container."
+    ],
+    [
+      "a person consuming a liquid",
+      "person",
+      "beverage container"
+    ]
+  ],
+  "hug": [
+    [
+      "wrap_arms",
+      "squeeze_body",
+      "show_affection"
+    ],
+    [
+      "Two people embracing each other."
+    ],
+    [
+      "two people embracing each other",
+      "two people"
+    ]
+  ],
+  "cartwheel": [
+    [
+      "start_spinning",
+      "rotate_through_air",
+      "land"
+    ],
+    [
+      "A person performing a lateral flip with hands and feet touching the ground."
+    ],
+    [
+      "a person performing a lateral flip",
+      "person",
+      "ground"
+    ]
+  ],
+  "punch": [
+    [
+      "raise_hand",
+      "extend_arm",
+      "strike_object"
+    ],
+    [
+      "A person striking with a closed fist."
+    ],
+    [
+      "a person striking with a closed fist",
+      "person",
+      "target"
+    ]
+  ],
+  "jump": [
+    [
+      "start_jumping",
+      "propel_self_into_air",
+      "land"
+    ],
+    [
+      "A person propelling themselves off the ground."
+    ],
+    [
+      "a person propelling themselves off the ground",
+      "person",
+      "ground"
+    ]
+  ],
+  "pushup": [
+    [
+      "start_pushing_up",
+      "lower_body",
+      "push_back_up"
+    ],
+    [
+      "A person exercising by lifting and lowering their body with arms."
+    ],
+    [
+      "a person exercising by lifting and lowering their body",
+      "person",
+      "ground"
+    ]
+  ],
+  "push": [
+    [
+      "apply_force",
+      "move_object",
+      "stop"
+    ],
+    [
+      "A person applying force to move an object away."
+    ],
+    [
+      "a person applying force to move an object away",
+      "person",
+      "object"
+    ]
+  ],
+  "ride horse": [
+    [
+      "mount_horse",
+      "control_animal",
+      "ride"
+    ],
+    [
+      "A person mounted on a horse, guiding it forward."
+    ],
+    [
+      "a person mounted on a horse",
+      "person",
+      "horse"
+    ]
+  ],
+  "swing baseball": [
+    [
+      "hold_bat",
+      "swing_at_ball",
+      "follow_through"
+    ],
+    [
+      "A person swinging a bat to hit a ball, usually in a baseball field or batting cage."
+    ],
+    [
+      "a person swinging a bat to hit a ball",
+      "person",
+      "baseball bat",
+      "baseball"
+    ]
+  ],
+  "throw": [
+    [
+      "start_throwing",
+      "release_object",
+      "track_path"
+    ],
+    [
+      "A person propelling an object through the air."
+    ],
+    [
+      "a person propelling an object through the air",
+      "person",
+      "object"
+    ]
+  ],
+  "dribble": [
+    [
+      "bounce_ball",
+      "maneuver_object",
+      "score"
+    ],
+    [
+      "A person bouncing a ball repeatedly, often in basketball."
+    ],
+    [
+      "a person bouncing a ball repeatedly",
+      "person",
+      "ball"
+    ]
+  ],
+  "sit": [
+    [
+      "transfer_weight",
+      "straighten_legs",
+      "balance"
+    ],
+    [
+      "A person lowering themselves onto a seat."
+    ],
+    [
+      "a person lowering themselves onto a seat",
+      "person",
+      "seat"
+    ]
+  ],
+  "kick ball": [
+    [
+      "lift_foot",
+      "kick_ball",
+      "follow_through"
+    ],
+    [
+      "A person striking a ball with their foot."
+    ],
+    [
+      "a person striking a ball with their foot",
+      "person",
+      "ball"
+    ]
+  ],
+  "dive": [
+    [
+      "start_diving",
+      "plunge_into_water",
+      "resurface"
+    ],
+    [
+      "A person jumping into water headfirst."
+    ],
+    [
+      "a person jumping into water headfirst",
+      "person",
+      "water"
+    ]
+  ],
+  "pour": [
+    [
+      "hold_container",
+      "tilt_object",
+      "release_fluid"
+    ],
+    [
+      "A person transferring liquid from one container to another."
+    ],
+    [
+      "a person transferring liquid from one container to another",
+      "person",
+      "containers"
+    ]
+  ],
+  "catch": [
+    [
+      "track_object",
+      "extend_hand",
+      "secure_catch"
+    ],
+    [
+      "A person securing an object thrown towards them."
+    ],
+    [
+      "a person securing an object thrown towards them",
+      "person",
+      "object"
+    ]
+  ],
+  "sword exercise": [
+    [
+      "unfurl_sword",
+      "execute_maneuver",
+      "retract"
+    ],
+    [
+      "A person practicing movements with a sword."
+    ],
+    [
+      "a person practicing movements with a sword",
+      "person",
+      "sword"
+    ]
+  ],
+  "shake hands": [
+    [
+      "extend_hands",
+      "make_contact",
+      "separate"
+    ],
+    [
+      "Two people greeting each other with a handshake."
+    ],
+    [
+      "two people greeting each other with a handshake",
+      "two people",
+      "hands"
+    ]
+  ],
+  "walk": [
+    [
+      "start_walking",
+      "transfer_weight",
+      "step_forward"
+    ],
+    [
+      "A person moving forward on foot."
+    ],
+    [
+      "a person moving forward on foot",
+      "person"
+    ]
+  ]
+}

@@ -40,10 +40,16 @@ log = utils.get_pylogger(__name__)
 
 @utils.task_wrapper
 def evaluate(cfg: DictConfig) -> Tuple[dict, dict]:
-    """
-    :param cfg: A dictionary-like object that contains the configuration settings for the evaluation.
-    :return: A tuple consisting of a dictionary containing the evaluation metrics and a dictionary containing the objects used in the evaluation.
+    """Evaluates given checkpoint on a datamodule testset.
 
+    This method is wrapped in optional @task_wrapper decorator, that controls the behavior during
+    failure. Useful for multiruns, saving info about the crash, etc.
+
+    Args:
+        cfg (DictConfig): Configuration composed by Hydra.
+
+    Returns:
+        Tuple[dict, dict]: Dict with metrics and dict with all instantiated objects.
     """
 
     if not cfg.ckpt_path:
@@ -108,6 +114,8 @@ def evaluate(cfg: DictConfig) -> Tuple[dict, dict]:
         log.info("Logging hyperparameters!")
         utils.log_hyperparameters(object_dict)
 
+
+
     log.info("Starting testing!")
     trainer.test(model=model, datamodule=datamodule, ckpt_path=cfg.ckpt_path)
     log.info("Testing finished!")
@@ -121,12 +129,6 @@ def evaluate(cfg: DictConfig) -> Tuple[dict, dict]:
 
 @hydra.main(version_base="1.3", config_path="../configs", config_name="eval.yaml")
 def main(cfg: DictConfig) -> None:
-    """
-    The `main` method is the entry point of the program. It takes a `cfg` parameter of type `DictConfig` and does not return any value.
-
-    :param cfg: A dictionary-like object containing the configuration settings for the program.
-    :return: None
-    """
     # apply extra utilities
     # (e.g. ask for tags if none are provided in cfg, print cfg tree, etc.)
 

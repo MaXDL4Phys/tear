@@ -1,0 +1,467 @@
+{
+  "flic flac": [
+    "a person performing a gymnastic flip",
+    "person",
+    "gym mat",
+    "take off from one foot",
+    "perform a quick step or skip",
+    "land on the other foot",
+    "A person performing a gymnastic flip, usually on a gym mat."
+  ],
+  "hit": [
+    "a person making contact with another object or person",
+    "person",
+    "target object",
+    "pull back arm",
+    "swing arm forward",
+    "make contact with target",
+    "A person making contact with another object or person."
+  ],
+  "run": [
+    "a person moving quickly on foot",
+    "person",
+    "running shoes",
+    "ground",
+    "lean forward",
+    "move legs in a cyclic motion",
+    "swing arms alternately",
+    "A person moving quickly on foot, often wearing running shoes."
+  ],
+  "kiss": [
+    "two people leaning towards each other",
+    "two people",
+    "lean in towards each other",
+    "close eyes and tilt heads",
+    "press lips together",
+    "Two people leaning towards each other, often pressing their lips together."
+  ],
+  "talk": [
+    "a person or group engaged in conversation",
+    "person",
+    "mouth",
+    "open mouth",
+    "vibrate vocal cords",
+    "articulate words with tongue and lips",
+    "A person or group engaged in conversation, with visible mouth movements."
+  ],
+  "shoot bow": [
+    "a person drawing and releasing an arrow from a bow",
+    "person",
+    "bow",
+    "arrow",
+    "target",
+    "draw the arrow",
+    "aim at the target",
+    "release the arrow",
+    "A person drawing and releasing an arrow from a bow, often aiming at a target."
+  ],
+  "eat": [
+    "a person consuming food",
+    "person",
+    "food",
+    "utensils",
+    "pick up food",
+    "bring food to mouth",
+    "chew and swallow",
+    "A person consuming food, typically using utensils or hands."
+  ],
+  "stand": [
+    "a person in an upright position",
+    "person",
+    "bend knees",
+    "push up with legs",
+    "straighten the back",
+    "A person in an upright position on their feet."
+  ],
+  "shoot gun": [
+    "a person aiming and firing a gun",
+    "person",
+    "gun",
+    "target",
+    "aim the gun",
+    "pull the trigger",
+    "recoil and discharge",
+    "A person aiming and firing a gun, often at a target."
+  ],
+  "kick": [
+    "a person swinging their leg to make contact",
+    "person",
+    "target object",
+    "shift weight to one leg",
+    "pull back the other leg",
+    "swing the leg forward to strike",
+    "A person swinging their leg to make contact with an object or another person."
+  ],
+  "situp": [
+    "a person lying down and lifting their upper body",
+    "person",
+    "exercise mat",
+    "lie on your back",
+    "bend your knees and place feet flat on the ground",
+    "lift upper body towards knees",
+    "A person lying down and lifting their upper body towards their knees."
+  ],
+  "pick": [
+    "a person reaching out and grasping an object",
+    "person",
+    "object",
+    "reach out hand",
+    "grasp the object",
+    "lift the object",
+    "A person reaching out and grasping an object."
+  ],
+  "somersault": [
+    "a person performing a forward or backward roll",
+    "person",
+    "gym mat",
+    "crouch down",
+    "tuck in head and push off with legs",
+    "roll forward and land on feet",
+    "A person performing a forward or backward roll, often on a gym mat."
+  ],
+  "golf": [
+    "a person swinging a club to hit a ball",
+    "person",
+    "golf club",
+    "golf ball",
+    "set up stance and grip",
+    "swing the club back",
+    "swing the club forward and hit the ball",
+    "A person swinging a club to hit a ball, usually on a golf course."
+  ],
+  "clap": [
+    "a person bringing their hands together to make a sound",
+    "person",
+    "hands",
+    "raise hands",
+    "bring hands together",
+    "make contact to create sound",
+    "A person bringing their hands together to make a sound."
+  ],
+  "draw sword": [
+    "a person unsheathing a sword",
+    "person",
+    "sword",
+    "sheath",
+    "grasp sword hilt",
+    "pull sword from sheath",
+    "raise sword to ready position",
+    "A person unsheathing a sword, often raising it to a ready position."
+  ],
+  "handstand": [
+    "a person balancing on their hands with feet in the air",
+    "person",
+    "ground",
+    "place hands on the ground",
+    "kick legs up",
+    "balance with body inverted",
+    "A person balancing on their hands with feet in the air."
+  ],
+  "wave": [
+    "a person moving their hand side to side",
+    "person",
+    "hand",
+    "raise hand",
+    "move hand side to side",
+    "lower hand",
+    "A person moving their hand side to side as a gesture."
+  ],
+  "brush hair": [
+    "a person grooming their hair with a brush",
+    "person",
+    "hair brush",
+    "hold brush handle",
+    "raise brush to hair",
+    "move brush through hair",
+    "A person grooming their hair with a brush."
+  ],
+  "shoot ball": [
+    "a person throwing a ball towards a target",
+    "person",
+    "ball",
+    "target",
+    "align body towards target",
+    "pull back the shooting arm",
+    "thrust arm forward and release ball",
+    "A person throwing a ball towards a target, often in sports."
+  ],
+  "pullup": [
+    "a person lifting their body up by pulling on a bar",
+    "person",
+    "pull-up bar",
+    "grasp bar with both hands",
+    "pull body upward",
+    "lower body back down",
+    "A person lifting their body up by pulling on a bar."
+  ],
+  "fencing": [
+    "two people engaged in a fencing match",
+    "people",
+    "fencing swords",
+    "protective gear",
+    "assume en garde position",
+    "lunge towards opponent",
+    "attempt to touch opponent with weapon",
+    "Two people engaged in a fencing match with protective gear and swords."
+  ],
+  "laugh": [
+    "a person expressing amusement",
+    "person",
+    "mouth",
+    "observe or think of something funny",
+    "inhale deeply",
+    "emit vocal sounds while exhaling",
+    "A person expressing amusement, often with visible mouth movements."
+  ],
+  "smile": [
+    "a person showing a happy facial expression",
+    "person",
+    "mouth",
+    "observe or feel something positive",
+    "contract facial muscles",
+    "display upturned lips",
+    "A person showing a happy facial expression with upturned lips."
+  ],
+  "turn": [
+    "a person rotating their body",
+    "person",
+    "pivot one foot",
+    "rotate body",
+    "place other foot in new direction",
+    "A person rotating their body."
+  ],
+  "climb": [
+    "a person ascending a vertical surface",
+    "person",
+    "climbing holds",
+    "grasp hold with hands",
+    "place feet on footholds",
+    "pull body upward",
+    "A person ascending a vertical surface, using hands and feet."
+  ],
+  "climb stairs": [
+    "a person ascending a staircase",
+    "person",
+    "stairs",
+    "place one foot on the step",
+    "push off with lower foot",
+    "lift other foot onto the next step",
+    "A person ascending a staircase."
+  ],
+  "chew": [
+    "a person grinding food with their teeth",
+    "person",
+    "food",
+    "teeth",
+    "close mouth around food",
+    "move jaws to grind food",
+    "mix food with saliva and swallow",
+    "A person grinding food with their teeth."
+  ],
+  "smoke": [
+    "a person inhaling and exhaling smoke from a cigarette",
+    "person",
+    "cigarette",
+    "hold cigarette to mouth",
+    "inhale to draw smoke",
+    "exhale smoke",
+    "A person inhaling and exhaling smoke from a cigarette."
+  ],
+  "ride bike": [
+    "a person pedaling a bicycle",
+    "person",
+    "bicycle",
+    "mount the bike",
+    "pedal to gain momentum",
+    "steer and balance while riding",
+    "A person pedaling a bicycle."
+  ],
+  "sword": [
+    "a person handling a sword",
+    "person",
+    "sword",
+    "grasp sword handle",
+    "draw sword from sheath",
+    "position sword for action",
+    "A person handling a sword, often in a combat or training scenario."
+  ],
+  "fall floor": [
+    "a person losing balance and hitting the ground",
+    "person",
+    "floor",
+    "lose balance or footing",
+    "descend towards the ground",
+    "make contact with the floor",
+    "A person losing balance and hitting the ground."
+  ],
+  "drink": [
+    "a person consuming a liquid",
+    "person",
+    "beverage container",
+    "lift beverage container to mouth",
+    "tilt container to pour liquid",
+    "swallow the liquid",
+    "A person consuming a liquid from a container."
+  ],
+  "hug": [
+    "two people embracing each other",
+    "two people",
+    "extend arms towards person",
+    "wrap arms around person",
+    "pull person close",
+    "Two people embracing each other."
+  ],
+  "cartwheel": [
+    "a person performing a lateral flip",
+    "person",
+    "ground",
+    "place hands on the ground",
+    "kick legs up and over",
+    "land on feet",
+    "A person performing a lateral flip with hands and feet touching the ground."
+  ],
+  "punch": [
+    "a person striking with a closed fist",
+    "person",
+    "target",
+    "clench fist",
+    "pull back arm",
+    "thrust arm forward to strike",
+    "A person striking with a closed fist."
+  ],
+  "jump": [
+    "a person propelling themselves off the ground",
+    "person",
+    "ground",
+    "bend knees",
+    "push off ground with legs",
+    "rise into the air",
+    "A person propelling themselves off the ground."
+  ],
+  "pushup": [
+    "a person exercising by lifting and lowering their body",
+    "person",
+    "ground",
+    "place hands on the ground shoulder-width apart",
+    "extend legs and balance on toes",
+    "lower and raise body by bending and straightening arms",
+    "A person exercising by lifting and lowering their body with arms."
+  ],
+  "push": [
+    "a person applying force to move an object away",
+    "person",
+    "object",
+    "extend arms towards object",
+    "apply force with hands",
+    "move object away from body",
+    "A person applying force to move an object away."
+  ],
+  "ride horse": [
+    "a person mounted on a horse",
+    "person",
+    "horse",
+    "mount the horse",
+    "hold reins and sit upright",
+    "use legs and reins to guide horse forward",
+    "A person mounted on a horse, guiding it forward."
+  ],
+  "swing baseball": [
+    "a person swinging a bat to hit a ball",
+    "person",
+    "baseball bat",
+    "baseball",
+    "position feet and grip bat",
+    "rotate hips and shoulders",
+    "swing bat to hit the ball",
+    "A person swinging a bat to hit a ball, usually in a baseball field or batting cage."
+  ],
+  "throw": [
+    "a person propelling an object through the air",
+    "person",
+    "object",
+    "grip object in hand",
+    "pull arm back",
+    "thrust arm forward and release object",
+    "A person propelling an object through the air."
+  ],
+  "dribble": [
+    "a person bouncing a ball repeatedly",
+    "person",
+    "ball",
+    "bounce ball with one hand",
+    "push ball towards the ground",
+    "repeat the motion to keep ball bouncing",
+    "A person bouncing a ball repeatedly, often in basketball."
+  ],
+  "sit": [
+    "a person lowering themselves onto a seat",
+    "person",
+    "seat",
+    "approach the seat",
+    "bend knees and hips",
+    "lower body onto seat",
+    "A person lowering themselves onto a seat."
+  ],
+  "kick ball": [
+    "a person striking a ball with their foot",
+    "person",
+    "ball",
+    "approach the ball",
+    "swing leg back",
+    "swing leg forward and make contact with the ball",
+    "A person striking a ball with their foot."
+  ],
+  "dive": [
+    "a person jumping into water headfirst",
+    "person",
+    "water",
+    "stand at platform edge",
+    "jump forward and extend body",
+    "enter the water headfirst",
+    "A person jumping into water headfirst."
+  ],
+  "pour": [
+    "a person transferring liquid from one container to another",
+    "person",
+    "containers",
+    "hold container with liquid",
+    "tilt container towards receiving vessel",
+    "control flow and stop pouring",
+    "A person transferring liquid from one container to another."
+  ],
+  "catch": [
+    "a person securing an object thrown towards them",
+    "person",
+    "object",
+    "watch approaching object",
+    "extend hands towards object",
+    "close hands around object",
+    "A person securing an object thrown towards them."
+  ],
+  "sword exercise": [
+    "a person practicing movements with a sword",
+    "person",
+    "sword",
+    "grasp sword handle",
+    "perform a series of swings and thrusts",
+    "return sword to beginning position",
+    "A person practicing movements with a sword."
+  ],
+  "shake hands": [
+    "two people greeting each other with a handshake",
+    "two people",
+    "hands",
+    "extend hand towards other person",
+    "grasp their hand firmly",
+    "move hands up and down together",
+    "Two people greeting each other with a handshake."
+  ],
+  "walk": [
+    "a person moving forward on foot",
+    "person",
+    "lift one foot",
+    "move it forward and place it down",
+    "repeat with the other foot",
+    "A person moving forward on foot."
+  ]
+}

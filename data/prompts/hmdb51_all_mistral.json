@@ -1,0 +1,467 @@
+{
+  "flic flac": [
+    "people standing and dancing, music playing in the background",
+    "people continuing to dance, music still playing",
+    "people standing and dancing, music playing in the background",
+    "people continuing to dance, music still playing",
+    "dancing, people and music",
+    "people standing and dancing, music playing in the background",
+    "people continuing to dance, music still playing"
+  ],
+  "hit": [
+    "two people facing each other, one holding an object (e.g., bat, ball)",
+    "one person down on ground or stepping back, other person may be standing victoriously or confused",
+    "two people facing each other, one holding an object (e.g., bat, ball)",
+    "one person down on ground or stepping back, other person may be standing victoriously or confused",
+    "conflict between two people using an object (e.g., bat, ball)",
+    "two people facing each other, one holding an object (e.g., bat, ball)",
+    "one person down on ground or stepping back, other person may be standing victoriously or confused"
+  ],
+  "run": [
+    "person standing, looking ahead",
+    "person moving quickly away from original position",
+    "person standing, looking ahead",
+    "person moving quickly away from original position",
+    "chasing or moving quickly on open space by a person",
+    "person standing, looking ahead",
+    "person moving quickly away from original position"
+  ],
+  "kiss": [
+    "two people facing each other, close distance",
+    "two people maintaining contact, smiles on their faces",
+    "two people facing each other, close distance",
+    "two people maintaining contact, smiles on their faces",
+    "romantic moment shared between two people",
+    "involving lips",
+    "two people facing each other, close distance",
+    "two people maintaining contact, smiles on their faces"
+  ],
+  "talk": [
+    "two people facing each other, arms gesturing occasionally",
+    "two people maintaining contact, arms gesturing less frequently",
+    "two people facing each other, arms gesturing occasionally",
+    "two people maintaining contact, arms gesturing less frequently",
+    "conversation between people with hand gestures",
+    "two people facing each other, arms gesturing occasionally",
+    "two people maintaining contact, arms gesturing less frequently"
+  ],
+  "shoot bow": [
+    "archer standing with a bow and arrow in hand, focus on target",
+    "arrow flying towards the target or archer drawing another arrow",
+    "archer standing with a bow and arrow in hand, focus on target",
+    "arrow flying towards the target or archer drawing another arrow",
+    "archery, involving a person, bow and arrow",
+    "archer standing with a bow and arrow in hand, focus on target",
+    "arrow flying towards the target or archer drawing another arrow"
+  ],
+  "eat": [
+    "person sitting at a table with food in front of them",
+    "person finishing eating, possibly putting utensils down",
+    "person sitting at a table with food in front of them",
+    "person finishing eating, possibly putting utensils down",
+    "individual consuming food using utensils or hands",
+    "person sitting at a table with food in front of them",
+    "person finishing eating, possibly putting utensils down"
+  ],
+  "stand": [
+    "person crouching or sitting initially, then straightening up and assuming an upright position",
+    "person maintaining an upright position",
+    "person crouching or sitting initially, then straightening up and assuming an upright position",
+    "person maintaining an upright position",
+    "person maintaining an upright position on ground",
+    "person crouching or sitting initially, then straightening up and assuming an upright position",
+    "person maintaining an upright position"
+  ],
+  "shoot gun": [
+    "person standing with a gun in hand, focus on target",
+    "gunshot sound, possibly person looking around for the impact location",
+    "person standing with a gun in hand, focus on target",
+    "gunshot sound, possibly person looking around for the impact location",
+    "gun shooting activity, involving a person holding a gun",
+    "person standing with a gun in hand, focus on target",
+    "gunshot sound, possibly person looking around for the impact location"
+  ],
+  "kick": [
+    "person standing near ball or object on ground",
+    "ball moving away from original position after being kicked",
+    "person standing near ball or object on ground",
+    "ball moving away from original position after being kicked",
+    "kicking a ball by a person",
+    "involving feet",
+    "person standing near ball or object on ground",
+    "ball moving away from original position after being kicked"
+  ],
+  "situp": [
+    "person lying flat on their back, arms stretched out",
+    "person sitting up, possibly using hands to support themselves initially",
+    "person lying flat on their back, arms stretched out",
+    "person sitting up, possibly using hands to support themselves initially",
+    "exercise involving a person and a mat",
+    "person lying flat on their back, arms stretched out",
+    "person sitting up, possibly using hands to support themselves initially"
+  ],
+  "pick": [
+    "person reaching towards a fruit or flower with hand",
+    "person holding the picked object in their hand",
+    "person reaching towards a fruit or flower with hand",
+    "person holding the picked object in their hand",
+    "gathering of objects like fruit or flowers by a person using hands",
+    "person reaching towards a fruit or flower with hand",
+    "person holding the picked object in their hand"
+  ],
+  "somersault": [
+    "person standing on the ground, looking ahead",
+    "person performing a somersault, then landing back on the ground",
+    "person standing on the ground, looking ahead",
+    "person performing a somersault, then landing back on the ground",
+    "acrobatics, performed by a person on ground",
+    "person standing on the ground, looking ahead",
+    "person performing a somersault, then landing back on the ground"
+  ],
+  "golf": [
+    "person standing near golf ball with club in hand, looking at the hole",
+    "person swinging the club, possibly hitting the ball",
+    "person standing near golf ball with club in hand, looking at the hole",
+    "person swinging the club, possibly hitting the ball",
+    "golf course game with a person, club and ball",
+    "person standing near golf ball with club in hand, looking at the hole",
+    "person swinging the club, possibly hitting the ball"
+  ],
+  "clap": [
+    "hands initially open and apart from each other",
+    "hands quickly closing together and then opening again",
+    "hands initially open and apart from each other",
+    "hands quickly closing together and then opening again",
+    "cheering or expressing excitement by clapping hands",
+    "hands initially open and apart from each other",
+    "hands quickly closing together and then opening again"
+  ],
+  "draw sword": [
+    "person standing with a sheathed sword by their side or in a scabbard",
+    "person drawing the sword, focusing on something or someone",
+    "person standing with a sheathed sword by their side or in a scabbard",
+    "person drawing the sword, focusing on something or someone",
+    "fighting scene, involving a person holding a sword",
+    "person standing with a sheathed sword by their side or in a scabbard",
+    "person drawing the sword, focusing on something or someone"
+  ],
+  "handstand": [
+    "person facing away from the ground, feet initially in the air",
+    "person maintaining the handstand position, possibly moving around",
+    "person facing away from the ground, feet initially in the air",
+    "person maintaining the handstand position, possibly moving around",
+    "acrobatics, performed by a person on ground in an upside-down position",
+    "person facing away from the ground, feet initially in the air",
+    "person maintaining the handstand position, possibly moving around"
+  ],
+  "wave": [
+    "person holding one arm up, with their hand curved as if to say hello",
+    "person's arm lowered back down",
+    "person holding one arm up, with their hand curved as if to say hello",
+    "person's arm lowered back down",
+    "greeting gesture by moving arms",
+    "person holding one arm up, with their hand curved as if to say hello",
+    "person's arm lowered back down"
+  ],
+  "brush hair": [
+    "person sitting or standing near a mirror or vanity with a brush in hand",
+    "person finished brushing their hair, possibly looking at themselves in the mirror",
+    "person sitting or standing near a mirror or vanity with a brush in hand",
+    "person finished brushing their hair, possibly looking at themselves in the mirror",
+    "grooming activity, involving a person and a hairbrush",
+    "person sitting or standing near a mirror or vanity with a brush in hand",
+    "person finished brushing their hair, possibly looking at themselves in the mirror"
+  ],
+  "shoot ball": [
+    "person holding a ball in their hand, focusing on a target",
+    "ball moving towards the target or person throwing another ball",
+    "person holding a ball in their hand, focusing on a target",
+    "ball moving towards the target or person throwing another ball",
+    "sports game between two or more people, using a ball",
+    "person holding a ball in their hand, focusing on a target",
+    "ball moving towards the target or person throwing another ball"
+  ],
+  "pullup": [
+    "person hanging from a bar initially with arms bent",
+    "person lifting themselves up, possibly using a pullup bar",
+    "person hanging from a bar initially with arms bent",
+    "person lifting themselves up, possibly using a pullup bar",
+    "exercise performed by a person on a bar",
+    "person hanging from a bar initially with arms bent",
+    "person lifting themselves up, possibly using a pullup bar"
+  ],
+  "fencing": [
+    "two people standing at opposite ends of a fencing strip, holding swords",
+    "one person touching the other's sword or stepping back victoriously",
+    "two people standing at opposite ends of a fencing strip, holding swords",
+    "one person touching the other's sword or stepping back victoriously",
+    "competition with two people using swords and masks",
+    "two people standing at opposite ends of a fencing strip, holding swords",
+    "one person touching the other's sword or stepping back victoriously"
+  ],
+  "laugh": [
+    "face initially neutral or slightly smiling",
+    "face showing a wider grin or chuckle",
+    "face initially neutral or slightly smiling",
+    "face showing a wider grin or chuckle",
+    "expression of humor, involving facial expression",
+    "face initially neutral or slightly smiling",
+    "face showing a wider grin or chuckle"
+  ],
+  "smile": [
+    "face initially neutral or with a slight expression",
+    "face showing a more pronounced smile",
+    "face initially neutral or with a slight expression",
+    "face showing a more pronounced smile",
+    "expression of positive emotion, involving facial expression",
+    "face initially neutral or with a slight expression",
+    "face showing a more pronounced smile"
+  ],
+  "turn": [
+    "person facing one direction, looking ahead",
+    "person facing another direction, possibly changing their position",
+    "person facing one direction, looking ahead",
+    "person facing another direction, possibly changing their position",
+    "direction change, usually by a vehicle or person, steering wheel (for vehicles)",
+    "person facing one direction, looking ahead",
+    "person facing another direction, possibly changing their position"
+  ],
+  "climb": [
+    "person standing near a vertical structure, such as a tree or ladder",
+    "person reaching and moving up the structure",
+    "person standing near a vertical structure, such as a tree or ladder",
+    "person reaching and moving up the structure",
+    "mountain climbing activity, involving a person and ropes/climbing gear",
+    "person standing near a vertical structure, such as a tree or ladder",
+    "person reaching and moving up the structure"
+  ],
+  "climb stairs": [
+    "person standing at the bottom of a staircase, looking ahead",
+    "person moving up the staircase, possibly holding on to the railing",
+    "person standing at the bottom of a staircase, looking ahead",
+    "person moving up the staircase, possibly holding on to the railing",
+    "multi-story building navigation, performed by a person using stairs",
+    "person standing at the bottom of a staircase, looking ahead",
+    "person moving up the staircase, possibly holding on to the railing"
+  ],
+  "chew": [
+    "person eating food, chewing slowly",
+    "person finishing their food or swallowing, mouth closed",
+    "person eating food, chewing slowly",
+    "person finishing their food or swallowing, mouth closed",
+    "eating food in mouth",
+    "involving the action of chewing",
+    "person eating food, chewing slowly",
+    "person finishing their food or swallowing, mouth closed"
+  ],
+  "smoke": [
+    "person inhaling from a cigarette or pipe",
+    "person exhaling smoke or putting out the cigarette/pipe",
+    "person inhaling from a cigarette or pipe",
+    "person exhaling smoke or putting out the cigarette/pipe",
+    "cigarette break, involving a person holding a cigarette and smoking",
+    "person inhaling from a cigarette or pipe",
+    "person exhaling smoke or putting out the cigarette/pipe"
+  ],
+  "ride bike": [
+    "person standing next to a bicycle, holding onto it",
+    "person pedaling and moving on the bicycle",
+    "person standing next to a bicycle, holding onto it",
+    "person pedaling and moving on the bicycle",
+    "cycling activity, involving a person riding a bicycle",
+    "person standing next to a bicycle, holding onto it",
+    "person pedaling and moving on the bicycle"
+  ],
+  "sword": [
+    "person holding a sheathed sword by their side or in a scabbard",
+    "person drawing the sword, focusing on something or someone",
+    "person holding a sheathed sword by their side or in a scabbard",
+    "person drawing the sword, focusing on something or someone",
+    "fighting weapon, often held by a person",
+    "person holding a sheathed sword by their side or in a scabbard",
+    "person drawing the sword, focusing on something or someone"
+  ],
+  "fall floor": [
+    "person standing or in motion initially",
+    "person lying flat on the ground, possibly with some movement afterwards",
+    "person standing or in motion initially",
+    "person lying flat on the ground, possibly with some movement afterwards",
+    "unintentional falling down to the ground by a person",
+    "person standing or in motion initially",
+    "person lying flat on the ground, possibly with some movement afterwards"
+  ],
+  "drink": [
+    "person holding a glass or cup near their mouth, lips moving",
+    "person finishing the drink, possibly putting the cup down",
+    "person holding a glass or cup near their mouth, lips moving",
+    "person finishing the drink, possibly putting the cup down",
+    "consumption of liquid using utensils or mouth",
+    "person holding a glass or cup near their mouth, lips moving",
+    "person finishing the drink, possibly putting the cup down"
+  ],
+  "hug": [
+    "two people facing each other, arms extended",
+    "two people embracing, possibly smiling",
+    "two people facing each other, arms extended",
+    "two people embracing, possibly smiling",
+    "emotional expression between two people, involving physical contact (arms around each other)",
+    "two people facing each other, arms extended",
+    "two people embracing, possibly smiling"
+  ],
+  "cartwheel": [
+    "person standing with feet together, looking ahead",
+    "person performing a cartwheel, then landing back on their feet",
+    "person standing with feet together, looking ahead",
+    "person performing a cartwheel, then landing back on their feet",
+    "acrobatics, performed by a person on ground",
+    "person standing with feet together, looking ahead",
+    "person performing a cartwheel, then landing back on their feet"
+  ],
+  "punch": [
+    "person standing near another person, one hand initially curled into a fist",
+    "person's fist moving towards the other person or being pulled back",
+    "person standing near another person, one hand initially curled into a fist",
+    "person's fist moving towards the other person or being pulled back",
+    "aggressive action by a person, using their fist",
+    "often seen in fighting scenarios",
+    "person standing near another person, one hand initially curled into a fist",
+    "person's fist moving towards the other person or being pulled back"
+  ],
+  "jump": [
+    "person standing still initially",
+    "person leaving the ground and moving upwards",
+    "person standing still initially",
+    "person leaving the ground and moving upwards",
+    "moving vertically from the ground by a person or animal",
+    "person standing still initially",
+    "person leaving the ground and moving upwards"
+  ],
+  "pushup": [
+    "person lying flat on their stomach, arms bent at the elbows",
+    "person pushing themselves up, possibly performing multiple pushups",
+    "person lying flat on their stomach, arms bent at the elbows",
+    "person pushing themselves up, possibly performing multiple pushups",
+    "exercise involving a person and the floor",
+    "person lying flat on their stomach, arms bent at the elbows",
+    "person pushing themselves up, possibly performing multiple pushups"
+  ],
+  "ride horse": [
+    "person sitting on a horse, holding onto the saddle",
+    "person moving along on the horse, possibly controlling its direction",
+    "person sitting on a horse, holding onto the saddle",
+    "person moving along on the horse, possibly controlling its direction",
+    "equestrian activity, involving a person on a horse",
+    "person sitting on a horse, holding onto the saddle",
+    "person moving along on the horse, possibly controlling its direction"
+  ],
+  "swing baseball": [
+    "person standing near a bat and ball, holding the bat",
+    "person swinging the bat, possibly hitting the ball",
+    "person standing near a bat and ball, holding the bat",
+    "person swinging the bat, possibly hitting the ball",
+    "baseball game, involving a player swinging a bat at a ball",
+    "person standing near a bat and ball, holding the bat",
+    "person swinging the bat, possibly hitting the ball"
+  ],
+  "throw": [
+    "person holding an object (e.g., ball) in one hand",
+    "object moving away from the original position after being thrown",
+    "person holding an object (e.g., ball) in one hand",
+    "object moving away from the original position after being thrown",
+    "act of propelling an object using hands",
+    "person holding an object (e.g., ball) in one hand",
+    "object moving away from the original position after being thrown"
+  ],
+  "dribble": [
+    "person bouncing a ball in their hands or on the ground",
+    "ball moving along the ground, possibly being passed between players",
+    "person bouncing a ball in their hands or on the ground",
+    "ball moving along the ground, possibly being passed between players",
+    "bouncing a ball continuously while moving",
+    "usually in sports",
+    "person bouncing a ball in their hands or on the ground",
+    "ball moving along the ground, possibly being passed between players"
+  ],
+  "sit": [
+    "person standing initially, then lowering themselves to sit down",
+    "person sitting comfortably",
+    "person standing initially, then lowering themselves to sit down",
+    "person sitting comfortably",
+    "person assuming a seated position on a chair or ground",
+    "person standing initially, then lowering themselves to sit down",
+    "person sitting comfortably"
+  ],
+  "kick ball": [
+    "person standing near a ball on the ground",
+    "ball moving away from original position after being kicked",
+    "person standing near a ball on the ground",
+    "ball moving away from original position after being kicked",
+    "ball-related activity, involving a person and the ball",
+    "involving feet",
+    "person standing near a ball on the ground",
+    "ball moving away from original position after being kicked"
+  ],
+  "dive": [
+    "person standing or in motion initially, looking ahead",
+    "person jumping and leaving the ground, possibly heading towards water or a mat",
+    "person standing or in motion initially, looking ahead",
+    "person jumping and leaving the ground, possibly heading towards water or a mat",
+    "act of jumping into water headfirst",
+    "person standing or in motion initially, looking ahead",
+    "person jumping and leaving the ground, possibly heading towards water or a mat"
+  ],
+  "pour": [
+    "person holding a container (e.g., jug, cup) near an opening (e.g., another container, glass)",
+    "liquid flowing out of the container, possibly being caught in another container",
+    "person holding a container (e.g., jug, cup) near an opening (e.g., another container, glass)",
+    "liquid flowing out of the container, possibly being caught in another container",
+    "transferring liquid from one container to another",
+    "person holding a container (e.g., jug, cup) near an opening (e.g., another container, glass)",
+    "liquid flowing out of the container, possibly being caught in another container"
+  ],
+  "catch": [
+    "person holding one hand up, anticipating a throw",
+    "person's hand closing around an object after it has been thrown",
+    "person holding one hand up, anticipating a throw",
+    "person's hand closing around an object after it has been thrown",
+    "grabbing an object moving through air before it hits the ground",
+    "person holding one hand up, anticipating a throw",
+    "person's hand closing around an object after it has been thrown"
+  ],
+  "sword exercise": [
+    "person practicing sword movements, such as cuts or parries",
+    "person finishing the sword exercise, possibly standing still or putting the sword away",
+    "person practicing sword movements, such as cuts or parries",
+    "person finishing the sword exercise, possibly standing still or putting the sword away",
+    "fencing practice or martial arts, involving a person and a sword",
+    "person practicing sword movements, such as cuts or parries",
+    "person finishing the sword exercise, possibly standing still or putting the sword away"
+  ],
+  "shake hands": [
+    "two people facing each other, arms extended",
+    "two people shaking hands, possibly smiling",
+    "two people facing each other, arms extended",
+    "two people shaking hands, possibly smiling",
+    "greeting gesture between two people, involving handshake",
+    "two people facing each other, arms extended",
+    "two people shaking hands, possibly smiling"
+  ],
+  "push": [
+    "person standing near another person, one hand extended",
+    "person's hand moving towards the other person or being pulled back",
+    "person standing near another person, one hand extended",
+    "person's hand moving towards the other person or being pulled back",
+    "action of moving something in a straight line",
+    "person standing near another person, one hand extended",
+    "person's hand moving towards the other person or being pulled back"
+  ],
+  "walk": [
+    "person standing initially, then moving forward",
+    "person continuing to walk, possibly looking around or changing direction",
+    "person standing initially, then moving forward",
+    "person continuing to walk, possibly looking around or changing direction",
+    "person moving forward by lifting and setting down each foot in turn",
+    "person standing initially, then moving forward",
+    "person continuing to walk, possibly looking around or changing direction"
+  ]
+}

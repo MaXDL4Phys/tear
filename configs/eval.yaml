@@ -11,6 +11,7 @@ defaults:
   - extras: default.yaml
   - hydra: default.yaml
   - experiment: null
+#  - experiment: k600_splitted.yaml
 
 task_name: "eval"
 

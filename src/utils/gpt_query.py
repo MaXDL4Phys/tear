@@ -130,9 +130,7 @@ dataset2actions = {
     "k600": k600_actions,
 }
 
-#dataset2actions = {
-#    "ucf101": ucf101_actions,
-#}
+
 assert args.dataset in dataset2actions, f"Dataset {args.dataset} not supported"
 
 if args.resume:

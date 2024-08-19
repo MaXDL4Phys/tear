@@ -1,0 +1,3879 @@
+{
+  "tying knot (not on a tie)": [
+    "a piece of rope or string",
+  "hands",
+  "rope",
+  "knot"
+],
+  "swinging baseball bat": [
+    "a baseball field or batting cage",
+  "baseball bat",
+  "baseball",
+  "player"
+],
+  "playing ocarina": [
+    "a musician playing a wind instrument",
+  "ocarina",
+  "hands",
+  "music sheet"
+],
+  "waiting in line": [
+    "a queue or line at a store or ticket booth",
+  "people",
+  "queue barrier",
+  "signs"
+],
+  "land sailing": [
+    "a wide and open sandy beach or desert",
+  "sail",
+  "land yacht",
+  "driver"
+],
+  "snowboarding": [
+    "snow-covered mountain slope or snow park",
+  "snowboard",
+  "snow boots",
+  "helmet"
+],
+  "disc golfing": [
+    "a disc golf course with baskets and challenging terrain",
+  "disc golf disc",
+  "disc golf basket",
+  "player"
+],
+  "cleaning toilet": [
+    "a bathroom or restroom",
+  "toilet brush",
+  "cleaning solution",
+  "gloves"
+],
+  "eating doughnuts": [
+    "a bakery or coffee shop",
+  "doughnut",
+  "coffee",
+  "person"
+],
+  "poking bellybutton": [
+    "a person's stomach area",
+  "finger",
+  "bellybutton",
+  "person"
+],
+  "situp": [
+    "an exercise mat or gym floor",
+  "person",
+  "exercise mat",
+  "timer"
+],
+  "petting animal (not cat)": [
+    "a park or home environment",
+  "dog",
+  "hand",
+  "leash"
+],
+  "doing nails": [
+    "a nail salon or home manicure station",
+  "nail polish",
+  "nail file",
+  "hands"
+],
+  "jetskiing": [
+    "a body of water such as a lake or ocean",
+  "jet ski",
+  "life jacket",
+  "driver"
+],
+  "doing jigsaw puzzle": [
+    "a table or flat surface with scattered puzzle pieces",
+  "jigsaw puzzle pieces",
+  "puzzle board",
+  "person"
+],
+  "drop kicking": [
+    "an open field or sports field",
+  "ball",
+  "player",
+  "kicking foot"
+],
+  "somersaulting": [
+    "a gymnastics gym or soft padded area",
+  "person",
+  "mats",
+  "elastic bands"
+],
+  "skiing slalom": [
+    "a snowy mountain slope with marked slalom course",
+  "skis",
+  "ski poles",
+  "ski gates"
+],
+  "hurling (sport)": [
+    "a large grass field or stadium",
+  "hurling stick",
+  "sliotar (ball)",
+  "player"
+],
+  "battle rope training": [
+    "a gym or fitness studio",
+  "battle rope",
+  "exercise mat",
+  "person"
+],
+  "extinguishing fire": [
+    "a building or outdoor area on fire",
+  "fire extinguisher",
+  "water hose",
+  "firefighter"
+],
+  "krumping": [
+    "an urban environment such as a street or a dance studio",
+  "dancer",
+  "music",
+  "energy"
+],
+  "knitting": [
+    "a cozy living room or crafting area",
+  "knitting needles",
+  "yarn",
+  "knitting pattern"
+],
+  "making snowman": [
+    "a snowy outdoor area such as a yard or park",
+  "snow",
+  "carrot",
+  "scarf",
+  "hat"
+],
+  "punching bag": [
+    "a gym or fitness studio",
+  "punching bag",
+  "boxing gloves",
+  "hand wraps"
+],
+  "opening wine bottle": [
+    "a dining table or kitchen counter",
+  "wine bottle",
+  "corkscrew",
+  "wine glass"
+],
+  "flying kite": [
+    "an open field or beach with wind",
+  "kite",
+  "string",
+  "person"
+],
+  "making a cake": [
+    "a kitchen or bakery",
+  "cake ingredients",
+  "mixing bowl",
+  "oven"
+],
+  "bobsledding": [
+    "an icy bobsled track with sharp turns",
+  "bobsled",
+  "helmet",
+  "team"
+],
+  "playing violin": [
+    "a music hall or practice room",
+  "violin",
+  "bow",
+  "music stand"
+],
+  "breading or breadcrumbing": [
+    "a kitchen counter or cooking station",
+  "breadcrumbs",
+  "egg wash",
+  "food item"
+],
+  "throwing water balloon": [
+    "an outdoor area such as a backyard or park",
+  "water balloon",
+  "thrower",
+  "target"
+],
+  "hoverboarding": [
+    "an urban area or skatepark",
+  "hoverboard",
+  "helmet",
+  "rider"
+],
+  "changing wheel (not on bike)": [
+    "a workshop or garage",
+  "wheel",
+  "tools",
+  "vehicle"
+],
+  "playing accordion": [
+    "a music studio or stage",
+  "accordion",
+  "music sheets",
+  "musician"
+],
+  "folding napkins": [
+    "a dining table or banquet hall",
+  "napkin",
+  "folding techniques guide",
+  "hands"
+],
+  "skydiving": [
+    "an airplane or skydiving center",
+  "parachute",
+  "skydiver",
+  "airplane"
+],
+  "climbing a rope": [
+    "a gym or outdoor climbing facility",
+  "rope",
+  "climber",
+  "harness"
+],
+  "arranging flowers": [
+    "a flower shop or florist studio",
+  "flowers",
+  "vase",
+  "scissors"
+],
+  "fencing (sport)": [
+    "a fencing piste or gymnasium",
+  "fencing sword",
+  "fencing mask",
+  "fencer"
+],
+  "fixing hair": [
+    "a bedroom or bathroom mirror",
+  "hairbrush",
+  "hair tie",
+  "hair products"
+],
+  "scrapbooking": [
+    "a crafting table or scrapbooking room",
+  "scrapbook paper",
+  "scissors",
+  "glue stick"
+],
+  "tagging graffiti": [
+    "an urban environment like a brick wall or alley",
+  "spray paint cans",
+  "stencils",
+  "graffiti artist"
+],
+  "scuba diving": [
+    "an underwater environment such as a coral reef or shipwreck",
+  "scuba gear",
+  "ocean",
+  "diver"
+],
+  "jumping jacks": [
+    "an exercise class or fitness studio",
+  "exercise mat",
+  "person",
+  "fitness instructor"
+],
+  "belly dancing": [
+    "a dance studio or stage with Middle Eastern decor",
+  "belly dancer",
+  "hip scarf",
+  "music"
+],
+  "bottling": [
+    "a beverage bottling plant or kitchen counter",
+  "bottles",
+  "capping machine",
+  "liquid filler"
+],
+  "testifying": [
+    "a courtroom or legal setting",
+  "court record",
+  "judge",
+  "witness stand"
+],
+  "capsizing": [
+    "a body of water such as a lake or river",
+  "boat",
+  "paddle",
+  "life jacket"
+],
+  "catching fish": [
+    "a fishing boat or pier",
+  "fishing rod",
+  "fish",
+  "fishing net"
+],
+  "playing lute": [
+    "a medieval-themed setting or music studio",
+  "lute",
+  "music stand",
+  "musician"
+],
+  "dining": [
+    "a restaurant or dining table",
+  "food",
+  "utensils",
+  "plates"
+],
+  "mowing lawn": [
+    "a backyard or garden",
+  "lawn mower",
+  "grass clippings",
+  "gloves"
+],
+  "high kick": [
+    "a martial arts dojo or fitness studio",
+  "person",
+  "high kick position",
+  "balance"
+],
+  "shooting goal (soccer)": [
+    "a soccer field or sports arena",
+  "soccer ball",
+  "goalkeeper",
+  "player"
+],
+  "cracking back": [
+    "a chiropractor's office or yoga studio",
+  "person",
+  "back cracking technique",
+  "comfortable surface"
+],
+  "embroidering": [
+    "a sewing room or crafting table",
+  "embroidery hoop",
+  "needle",
+  "embroidery thread"
+],
+  "ironing": [
+    "a laundry room or ironing board",
+  "iron",
+  "ironing board",
+  "clothes"
+],
+  "giving or receiving award": [
+    "a stage or formal event",
+  "award trophy",
+  "presenter",
+  "recipient"
+],
+  "crawling baby": [
+    "a nursery or living room floor",
+  "baby",
+  "blanket",
+  "toys"
+],
+  "rope pushdown": [
+    "a gym or fitness center",
+  "cable machine",
+  "rope attachment",
+  "person"
+],
+  "wading through water": [
+    "a shallow river or beach",
+  "water",
+  "person",
+  "rubber boots"
+],
+  "braiding hair": [
+    "a hair salon or bedroom mirror",
+  "hair",
+  "hair ties",
+  "comb"
+],
+  "playing field hockey": [
+    "a field hockey field or sports arena",
+  "field hockey stick",
+  "field hockey ball",
+  "player"
+],
+  "sausage making": [
+    "a kitchen or butcher shop",
+  "sausage meat",
+  "sausage casing",
+  "sausage stuffer"
+],
+  "decorating the christmas tree": [
+    "a living room or family room",
+  "Christmas tree",
+  "ornaments",
+  "string lights"
+],
+  "licking": [
+    "a snack food or ice cream",
+  "tongue",
+  "food item",
+  "mouth"
+],
+  "news anchoring": [
+    "a news studio or newsroom",
+  "news anchor desk",
+  "microphone",
+  "news script"
+],
+  "riding mechanical bull": [
+    "a Western-style bar or rodeo event",
+  "mechanical bull",
+  "cowboy hat",
+  "rider"
+],
+  "clay pottery making": [
+    "a pottery studio or workshop",
+  "clay",
+  "pottery wheel",
+  "ceramic tools"
+],
+  "eating spaghetti": [
+    "a dining table or Italian restaurant",
+  "spaghetti",
+  "fork",
+  "plate"
+],
+  "watching tv": [
+    "a living room or entertainment area",
+  "television",
+  "remote control",
+  "couch"
+],
+  "pouring beer": [
+    "a bar or pub",
+  "beer tap",
+  "beer glass",
+  "beer foam"
+],
+  "historical reenactment": [
+    "an outdoor historical site or theatrical stage",
+  "historical costumes",
+  "props",
+  "actors"
+],
+  "kitesurfing": [
+    "a windy beach or coastal area",
+  "kiteboard",
+  "sail",
+  "wetsuit"
+],
+  "writing": [
+    "a desk or quiet study area",
+  "pen",
+  "paper",
+  "person"
+],
+  "feeding birds": [
+    "a park or backyard",
+  "birdseed",
+  "birds",
+  "feeding tray"
+],
+  "playing bass guitar": [
+    "a music studio or stage",
+  "bass guitar",
+  "amplifier",
+  "musician"
+],
+  "hammer throw": [
+    "an athletic field or stadium",
+  "hammer",
+  "throwing circle",
+  "athlete"
+],
+  "building lego": [
+    "a playroom or children's bedroom",
+  "LEGO bricks",
+  "building instructions",
+  "child"
+],
+  "shucking oysters": [
+    "a seafood restaurant or kitchen counter",
+  "oysters",
+  "oyster knife",
+  "protective glove"
+],
+  "motorcycling": [
+    "a road or motorbike track",
+  "motorcycle",
+  "helmet",
+  "rider"
+],
+  "wrapping present": [
+    "a gift wrapping station or table",
+  "wrapping paper",
+  "scissors",
+  "gift"
+],
+  "using inhaler": [
+    "a medical office or pharmacy",
+  "inhaler",
+  "person",
+  "medical instructions"
+],
+  "spray painting": [
+    "an outdoor space or workshop with protective covering",
+  "spray paint can",
+  "mask",
+  "surface to paint"
+],
+  "playing darts": [
+    "a pub or game room",
+  "dartboard",
+  "darts",
+  "player"
+],
+  "hurdling": [
+    "a track and field stadium or athletic field",
+  "hurdles",
+  "athlete",
+  "track"
+],
+  "clam digging": [
+    "a sandy beach or shoreline",
+  "shovel",
+  "bucket",
+  "clams"
+],
+  "waxing back": [
+    "a beauty salon or spa",
+  "wax",
+  "waxing strips",
+  "person"
+],
+  "raising eyebrows": [
+    "a face close-up",
+  "eyebrows",
+  "facial muscles",
+  "expressions"
+],
+  "washing hair": [
+    "a bathroom or hair salon",
+  "shampoo",
+  "water",
+  "person"
+],
+  "busking": [
+    "a busy street or public square",
+  "musical instrument",
+  "hat for tips",
+  "street performer"
+],
+  "wading through mud": [
+    "a muddy field or wetland area",
+  "mud",
+  "boots",
+  "person"
+],
+  "tiptoeing": [
+    "a quiet environment or ballet studio",
+  "feet",
+  "balance",
+  "stealth"
+],
+  "catching or throwing softball": [
+    "a softball field or sports complex",
+  "softball",
+  "glove",
+  "player"
+],
+  "photobombing": [
+    "a group taking a photo",
+  "person",
+  "camera",
+  "group of people"
+],
+  "trimming or shaving beard": [
+    "a bathroom or barbershop",
+  "razor",
+  "mirror",
+  "trimmer"
+],
+  "playing volleyball": [
+    "a beach or indoor volleyball court",
+  "volleyball",
+  "net",
+  "players"
+],
+  "bouncing on trampoline": [
+    "a backyard or trampoline park",
+  "trampoline",
+  "person",
+  "jumping mat"
+],
+  "laying concrete": [
+    "a construction site or driveway",
+  "concrete mixer",
+  "concrete truck",
+  "builder"
+],
+  "dyeing hair": [
+    "a bathroom or salon",
+  "hair dye",
+  "gloves",
+  "hairbrush"
+],
+  "laying bricks": [
+    "a construction site",
+  "bricks",
+  "trowel",
+  "level"
+],
+  "dancing charleston": [
+    "a 1920s jazz club or retro-themed party",
+  "flapper dress",
+  "fedora hat",
+  "swing music"
+],
+  "fly tying": [
+    "a fishing workshop or fly fishing store",
+  "feathers",
+  "thread",
+  "fishing hook"
+],
+  "grinding meat": [
+    "a kitchen",
+  "meat grinder",
+  "cutting board",
+  "raw meat"
+],
+  "eating cake": [
+    "a dining table or celebration event",
+  "cake",
+  "fork",
+  "plate"
+],
+  "playing dominoes": [
+    "a living room or outdoor patio",
+  "domino pieces",
+  "table",
+  "score sheet"
+],
+  "finger snapping": [
+    "a music performance or dance routine",
+  "fingers",
+  "rhythm",
+  "snapping sound"
+],
+  "blowing nose": [
+    "a bathroom or bedroom",
+  "tissue",
+  "nose",
+  "sinuses"
+],
+  "holding snake": [
+    "a reptile exhibit or animal handling facility",
+  "snake",
+  "handler",
+  "gloves"
+],
+  "getting a piercing": [
+    "a piercing studio or tattoo parlor",
+  "piercing needle",
+  "jewelry",
+  "sterilization equipment"
+],
+  "faceplanting": [
+    "an outdoor area or sports field",
+  "human face",
+  "ground",
+  "impact"
+],
+  "polishing metal": [
+    "a workshop or metal fabrication plant",
+  "metal object",
+  "polishing cloth",
+  "polishing compound"
+],
+  "flint knapping": [
+    "an archaeological dig site or ancient craft workshop",
+  "flint stone",
+  "hammerstone",
+  "pressure flaker"
+],
+  "playing rubiks cube": [
+    "a table or desk",
+  "Rubik's Cube",
+  "timer",
+  "solution guide"
+],
+  "front raises": [
+    "a gym or fitness studio",
+  "dumbbells",
+  "exercise mat",
+  "fitness trainer"
+],
+  "lock picking": [
+    "a locksmith workshop or security training facility",
+  "lock picking tools",
+  "lock",
+  "tension wrench"
+],
+  "using a wrench": [
+    "a workshop or mechanical repair shop",
+  "wrench",
+  "bolt",
+  "mechanical equipment"
+],
+  "ironing hair": [
+    "a salon or beauty parlor",
+  "flat iron",
+  "heat protectant spray",
+  "hair clip"
+],
+  "riding or walking with horse": [
+    "a stable or horse ranch",
+  "horse",
+  "saddle",
+  "bridle"
+],
+  "peeling potatoes": [
+    "a kitchen or restaurant",
+  "potatoes",
+  "vegetable peeler",
+  "cutting board"
+],
+  "throwing snowballs": [
+    "a snowy outdoor area or winter playground",
+  "snowballs",
+  "winter gloves",
+  "snow"
+],
+  "making tea": [
+    "a kitchen or tea room",
+  "teapot",
+  "tea leaves",
+  "hot water"
+],
+  "crying": [
+    "a bedroom or emotional scene",
+  "tears",
+  "tissues",
+  "emotional person"
+],
+  "casting fishing line": [
+    "a riverbank or pier",
+  "fishing rod",
+  "fishing line",
+  "fishing reel"
+],
+  "ice fishing": [
+    "a frozen lake or icy landscape",
+  "ice auger",
+  "ice fishing rod",
+  "fish trap"
+],
+  "trapezing": [
+    "a circus tent or aerial performance venue",
+  "trapeze bar",
+  "safety net",
+  "aerial acrobat"
+],
+  "parasailing": [
+    "a beach or waterfront",
+  "parasail",
+  "boat",
+  "harness"
+],
+  "shaking hands": [
+    "an office or meeting room",
+  "hands",
+  "business attire",
+  "smiling faces"
+],
+  "catching or throwing frisbee": [
+    "a park or beach",
+  "Frisbee",
+  "players",
+  "grass or sand"
+],
+  "swimming butterfly stroke": [
+    "a swimming pool or competition pool",
+  "swimmer",
+  "butterfly stroke technique",
+  "lane ropes"
+],
+  "high jump": [
+    "a track and field stadium or athletic competition",
+  "high jump bar",
+  "landing mat",
+  "athlete"
+],
+  "springboard diving": [
+    "an indoor or outdoor diving pool",
+  "springboard",
+  "diver",
+  "swimsuit"
+],
+  "playing poker": [
+    "a casino or gambling table",
+  "playing cards",
+  "poker chips",
+  "dealer"
+],
+  "shuffling feet": [
+    "a dance floor or musical performance stage",
+  "feet",
+  "rhythm",
+  "tap shoes"
+],
+  "bungee jumping": [
+    "a bungee jumping platform or bridge",
+  "bungee cord",
+  "harness",
+  "adrenaline seeker"
+],
+  "falling off chair": [
+    "an indoor setting like a kitchen or office",
+  "chair",
+  "person",
+  "floor"
+],
+  "playing tennis": [
+    "a tennis court or sports facility",
+  "tennis racket",
+  "tennis ball",
+  "net"
+],
+  "smoking": [
+    "an outdoor area or designated smoking area",
+  "cigarette",
+  "lighter",
+  "smoke"
+],
+  "cleaning gutters": [
+    "the exterior of a house or building",
+  "ladder",
+  "gloves",
+  "debris"
+],
+  "home roasting coffee": [
+    "a kitchen or outdoor patio",
+  "coffee beans",
+  "roasting machine",
+  "timer"
+],
+  "spinning poi": [
+    "a park or flow arts gathering",
+  "poi balls",
+  "chains",
+  "dancer"
+],
+  "chopping meat": [
+    "a kitchen or butcher shop",
+  "meat cleaver",
+  "cutting board",
+  "raw meat"
+],
+  "brush painting": [
+    "an art studio or painting class",
+  "paintbrush",
+  "canvas",
+  "paint palette"
+],
+  "sawing wood": [
+    "a carpentry workshop or construction site",
+  "wood plank",
+  "saw",
+  "safety goggles"
+],
+  "using segway": [
+    "a city street or park",
+  "Segway",
+  "rider",
+  "helmet"
+],
+  "smelling feet": [
+    "an indoor setting like a living room or bedroom",
+  "feet",
+  "odor",
+  "disgusted facial expression"
+],
+  "roasting pig": [
+    "an outdoor barbecue or party",
+  "whole pig",
+  "roasting spit",
+  "seasonings"
+],
+  "using circular saw": [
+    "a construction site or woodworking shop",
+  "circular saw",
+  "wood planks",
+  "safety goggles"
+],
+  "bathing dog": [
+    "a backyard or bathroom",
+  "dog",
+  "shampoo",
+  "water hose"
+],
+  "dribbling basketball": [
+    "a basketball court or gymnasium",
+  "basketball",
+  "player",
+  "dribbling technique"
+],
+  "blowing bubble gum": [
+    "an outdoor area or school playground",
+  "bubble gum",
+  "mouth",
+  "popped bubble"
+],
+  "shearing sheep": [
+    "a farm or sheep shearing facility",
+  "sheep",
+  "shearing machine",
+  "shearer"
+],
+  "cutting orange": [
+    "a kitchen or fruit stand",
+  "orange",
+  "knife",
+  "cutting board"
+],
+  "using a power drill": [
+    "a construction site or workshop",
+  "power drill",
+  "drill bit",
+  "safety goggles"
+],
+  "snowkiting": [
+    "a snowy field or frozen lake",
+  "kite",
+  "snowboard",
+  "harness"
+],
+  "shaking head": [
+    "an indoor or outdoor setting",
+  "head",
+  "body",
+  "confusion or disagreement expression"
+],
+  "using a microscope": [
+    "a laboratory or research facility",
+  "microscope",
+  "specimen slide",
+  "scientist"
+],
+  "dyeing eyebrows": [
+    "a beauty salon or bathroom",
+  "eyebrow dye",
+  "applicator brush",
+  "protective gloves"
+],
+  "playing paintball": [
+    "a paintball field or wooded area",
+  "paintball gun",
+  "protective mask",
+  "colorful paintballs"
+],
+  "playing hand clapping games": [
+    "a playground or schoolyard",
+  "hands",
+  "rhythm",
+  "children"
+],
+  "dancing gangnam style": [
+    "a dance studio or party setting",
+  "music",
+  "dancer",
+  "signature moves"
+],
+  "playing kickball": [
+    "a playground or sports field",
+  "kickball",
+  "players",
+  "base"
+],
+  "roasting marshmallows": [
+    "a campfire or outdoor setting",
+  "marshmallows",
+  "roasting stick",
+  "campfire"
+],
+  "jogging": [
+    "a park or running trail",
+  "runner",
+  "running shoes",
+  "headphones"
+],
+  "stomping grapes": [
+    "a winery or vineyard",
+  "grapes",
+  "bare feet",
+  "wine barrel"
+],
+  "jumping bicycle": [
+    "a BMX park or bike trail",
+  "bicycle",
+  "rider",
+  "ramps"
+],
+  "juggling fire": [
+    "a circus tent or outdoor performance area",
+  "fire torches",
+  "juggler",
+  "safety precautions"
+],
+  "playing clarinet": [
+    "a music room or concert stage",
+  "clarinet",
+  "sheet music",
+  "music stand"
+],
+  "sticking tongue out": [
+    "an informal or playful setting",
+  "tongue",
+  "facial expression",
+  "silly gesture"
+],
+  "getting a tattoo": [
+    "a tattoo parlor or studio",
+  "tattoo machine",
+  "ink",
+  "tattoo artist"
+],
+  "pillow fight": [
+    "a bedroom or sleepover party",
+  "pillows",
+  "laughing participants",
+  "bed or couch"
+],
+  "side kick": [
+    "a martial arts dojo or gym",
+  "kicker",
+  "target pad",
+  "side-kick technique"
+],
+  "square dancing": [
+    "a barn or country western dance hall",
+  "dancers",
+  "square dance caller",
+  "country music"
+],
+  "wood burning (art)": [
+    "an art studio or craft workshop",
+  "wood burning tool",
+  "wooden canvas",
+  "protective gloves"
+],
+  "staring": [
+    "an informal or contemplative setting",
+  "eyes",
+  "facial expression",
+  "focused gaze"
+],
+  "steer roping": [
+    "a rodeo arena or cattle ranch",
+  "steer",
+  "lasso rope",
+  "cowboy"
+],
+  "grooming horse": [
+    "a stable or barn",
+  "horse",
+  "brush",
+  "saddle"
+],
+  "blowing out candles": [
+    "a birthday cake or celebratory event",
+  "candles",
+  "flames",
+  "celebrant"
+],
+  "carving ice": [
+    "an ice sculpting competition or winter festival",
+  "ice block",
+  "ice carving tools",
+  "sculptor"
+],
+  "playing squash or racquetball": [
+    "a squash court or racquetball court",
+  "racket",
+  "squash ball",
+  "court walls"
+],
+  "ice climbing": [
+    "a frozen waterfall or ice climbing park",
+  "ice picks",
+  "crampons",
+  "harness"
+],
+  "playing keyboard": [
+    "a music studio or concert stage",
+  "keyboard",
+  "music sheet stand",
+  "musician"
+],
+  "climbing ladder": [
+    "a construction site or home improvement project",
+  "ladder",
+  "climber",
+  "safety helmet"
+],
+  "putting on foundation": [
+    "a dressing room or makeup studio",
+  "foundation makeup",
+  "makeup brush",
+  "mirror"
+],
+  "driving tractor": [
+    "a farm or rural area",
+  "tractor",
+  "farmer",
+  "field"
+],
+  "cutting nails": [
+    "a bathroom or nail salon",
+  "nail clippers",
+  "hands",
+  "nail file"
+],
+  "cracking knuckles": [
+    "an office or casual setting",
+  "knuckles",
+  "hand",
+  "popping sound"
+],
+  "pushing wheelbarrow": [
+    "a garden or construction site",
+  "wheelbarrow",
+  "construction materials",
+  "gardener or worker"
+],
+  "cracking neck": [
+    "an office or casual setting",
+  "neck",
+  "person",
+  "relief gesture"
+],
+  "threading needle": [
+    "a sewing workshop or crafting area",
+  "needle",
+  "thread",
+  "fabric"
+],
+  "answering questions": [
+    "an interview or Q&A session",
+  "questions",
+  "answers",
+  "speaker"
+],
+  "bench pressing": [
+    "a gym or fitness center",
+  "bench press",
+  "barbell",
+  "weight plates"
+],
+  "dancing macarena": [
+    "a party or dance floor",
+  "music",
+  "dancers",
+  "Macarena dance steps"
+],
+  "trimming shrubs": [
+    "a garden or outdoor landscaping area",
+  "hedge trimmer",
+  "shrubs",
+  "gardening gloves"
+],
+  "eating chips": [
+    "a casual setting like a living room or picnic",
+  "bag of chips",
+  "hands",
+  "crunching sound"
+],
+  "playing monopoly": [
+    "a living room or game night setting",
+  "Monopoly board",
+  "playing pieces",
+  "dice"
+],
+  "leatherworking": [
+    "a leather workshop or studio",
+  "leather hide",
+  "cutting tools",
+  "stitching equipment"
+],
+  "changing gear in car": [
+    "a car interior or driving scene",
+  "gear stick",
+  "driver hand",
+  "dashboard"
+],
+  "massaging back": [
+    "a massage parlor or spa",
+  "massage oil",
+  "hands",
+  "massage table"
+],
+  "sword swallowing": [
+    "stage performance",
+  "sword"
+],
+  "texting": [
+    "indoor",
+  "smartphone",
+  "hands"
+],
+  "jaywalking": [
+    "urban street",
+  "pedestrians",
+  "cars",
+  "traffic light"
+],
+  "blowing leaves": [
+    "backyard or garden",
+  "rake",
+  "pile of leaves",
+  "leaf blower"
+],
+  "moving furniture": [
+    "indoor",
+  "couch",
+  "table",
+  "chair",
+  "person"
+],
+  "brushing hair": [
+    "bathroom or bedroom",
+  "hairbrush",
+  "hair",
+  "mirror"
+],
+  "blowdrying hair": [
+    "bathroom",
+  "hairdryer",
+  "hair",
+  "brush"
+],
+  "inflating balloons": [
+    "party or celebration",
+  "balloon",
+  "air pump",
+  "helium tank"
+],
+  "sword fighting": [
+    "historical battlefield or stage",
+  "swords",
+  "armor",
+  "shields",
+  "fighters"
+],
+  "ripping paper": [
+    "office or home",
+  "paper",
+  "hands",
+  "trash can"
+],
+  "cheerleading": [
+    "sporting event or stadium",
+  "pom-poms",
+  "cheerleaders",
+  "megaphone",
+  "uniforms"
+],
+  "dumpster diving": [
+    "alley or urban area",
+  "dumpster",
+  "person",
+  "trash bags",
+  "flashlight"
+],
+  "playing controller": [
+    "living room or gaming room",
+  "video game controller",
+  "television",
+  "person"
+],
+  "golf driving": [
+    "golf course",
+  "golf club",
+  "golf ball",
+  "tee",
+  "golfer"
+],
+  "opening door": [
+    "indoor or outdoor",
+  "door",
+  "doorknob",
+  "hand"
+],
+  "rock scissors paper": [
+    "game room or classroom",
+  "rock",
+  "scissors",
+  "paper",
+  "hands"
+],
+  "mosh pit dancing": [
+    "concert or music festival",
+  "crowd",
+  "moshers",
+  "music band",
+  "energy"
+],
+  "tapping guitar": [
+    "music studio or stage",
+  "guitar",
+  "musician",
+  "fingers"
+],
+  "kissing": [
+    "romantic setting",
+  "lips",
+  "individuals",
+  "affection"
+],
+  "winking": [
+    "casual setting",
+  "eye",
+  "eyelid",
+  "facial expression"
+],
+  "carving pumpkin": [
+    "outdoor or home",
+  "pumpkin",
+  "knife",
+  "candle",
+  "spoon"
+],
+  "hula hooping": [
+    "outdoor or gym",
+  "hula hoop",
+  "person",
+  "hip movement",
+  "music"
+],
+  "using puppets": [
+    "theater stage or puppet show",
+  "puppets",
+  "puppeteer",
+  "stage",
+  "audience"
+],
+  "contact juggling": [
+    "performance stage or street show",
+  "crystal ball",
+  "juggler",
+  "hand movements",
+  "audience"
+],
+  "playing basketball": [
+    "basketball court",
+  "basketball",
+  "hoop",
+  "players",
+  "referee"
+],
+  "throwing ball (not baseball or american football)": [
+    "park or playground",
+  "ball",
+  "person",
+  "catcher",
+  "motion"
+],
+  "wrestling": [
+    "wrestling ring or gym",
+  "wrestlers",
+  "mat",
+  "referee",
+  "audience"
+],
+  "falling off bike": [
+    "outdoor",
+  "bike",
+  "person",
+  "helmet",
+  "ground"
+],
+  "presenting weather forecast": [
+    "news studio or weather station",
+  "map",
+  "meteorologist",
+  "green screen",
+  "temperature gauge"
+],
+  "drinking shots": [
+    "bar or party",
+  "shots",
+  "drink",
+  "people",
+  "table"
+],
+  "head stand": [
+    "gym or yoga studio",
+  "person",
+  "mat",
+  "wall",
+  "balance"
+],
+  "crossing river": [
+    "outdoor, near water",
+  "river",
+  "person",
+  "bridge",
+  "water current"
+],
+  "needle felting": [
+    "crafting studio or workshop",
+  "wool roving",
+  "felting needle",
+  "foam pad",
+  "design template"
+],
+  "preparing salad": [
+    "kitchen or dining area",
+  "vegetables",
+  "knife",
+  "cutting board",
+  "salad bowl"
+],
+  "yoga": [
+    "yoga studio or serene outdoor space",
+  "yoga mat",
+  "blocks",
+  "bolster",
+  "person"
+],
+  "scrubbing face": [
+    "bathroom",
+  "face wash",
+  "washcloth",
+  "water",
+  "mirror"
+],
+  "breathing fire": [
+    "outdoor performance area or stage",
+  "fire breather",
+  "fuel",
+  "torch",
+  "audience"
+],
+  "bookbinding": [
+    "bookbinding workshop or studio",
+  "bookbinding tools",
+  "text block",
+  "book cover material",
+  "book press"
+],
+  "eating hotdog": [
+    "outdoor event or food stand",
+  "hotdog",
+  "bun",
+  "person",
+  "condiments"
+],
+  "sleeping": [
+    "bedroom or resting area",
+  "bed",
+  "pillow",
+  "blanket",
+  "person"
+],
+  "smoking pipe": [
+    "lounge or outdoor setting",
+  "tobacco pipe",
+  "tobacco",
+  "lighter",
+  "smoker"
+],
+  "riding a bike": [
+    "outdoor, bike path or street",
+  "bicycle",
+  "helmet",
+  "person",
+  "road"
+],
+  "weaving basket": [
+    "craft workshop or outdoor",
+  "basket weaving materials",
+  "loom",
+  "finished basket",
+  "artisan"
+],
+  "water sliding": [
+    "water park or pool",
+  "water slide",
+  "person",
+  "water",
+  "splash"
+],
+  "weaving fabric": [
+    "loom or textile workshop",
+  "loom",
+  "thread",
+  "fabric",
+  "weaver"
+],
+  "bandaging": [
+    "medical facility or first aid training center",
+  "bandage",
+  "scissors",
+  "wound",
+  "person"
+],
+  "whistling": [
+    "outdoor or casual setting",
+  "person",
+  "mouth",
+  "whistle",
+  "tune"
+],
+  "playing cymbals": [
+    "music performance stage or orchestra",
+  "cymbals",
+  "musician",
+  "drumsticks",
+  "audience"
+],
+  "riding unicycle": [
+    "outdoor or circus arena",
+  "unicycle",
+  "person",
+  "balance",
+  "audience"
+],
+  "juggling balls": [
+    "street performance or circus",
+  "juggling balls",
+  "juggler",
+  "hands",
+  "audience"
+],
+  "headbanging": [
+    "concert or music festival",
+  "person",
+  "music",
+  "head",
+  "energy"
+],
+  "waxing chest": [
+    "beauty salon or bathroom",
+  "wax strip",
+  "chest",
+  "wax heater",
+  "person"
+],
+  "welding": [
+    "industrial workshop or construction site",
+  "welding machine",
+  "protective gear",
+  "metal pieces",
+  "sparks"
+],
+  "bending back": [
+    "yoga studio or gymnastics gym",
+  "person",
+  "back",
+  "stretching mat",
+  "flexibility"
+],
+  "cleaning shoes": [
+    "indoor or outdoor",
+  "shoes",
+  "brush",
+  "cleaning solution",
+  "cloth"
+],
+  "water skiing": [
+    "lake or sea",
+  "water skis",
+  "boat",
+  "person",
+  "life jacket"
+],
+  "tying bow tie": [
+    "formal event or dressing room",
+  "bow tie",
+  "shirt collar",
+  "mirror",
+  "person"
+],
+  "shuffling cards": [
+    "casino or gaming table",
+  "playing cards",
+  "hands",
+  "table",
+  "shuffling technique"
+],
+  "alligator wrestling": [
+    "swamp or wildlife enclosure",
+  "alligator",
+  "wrestler",
+  "audience",
+  "water"
+],
+  "tickling": [
+    "indoor or living room",
+  "person",
+  "hands",
+  "laughter",
+  "tickle spot"
+],
+  "playing organ": [
+    "church or music hall",
+  "organ",
+  "musician",
+  "keyboard",
+  "audience"
+],
+  "dancing ballet": [
+    "ballet studio or theater stage",
+  "ballet shoes",
+  "ballet dancer",
+  "tutu",
+  "music"
+],
+  "unboxing": [
+    "indoor setting or room",
+  "box",
+  "person",
+  "product",
+  "packing material"
+],
+  "kicking soccer ball": [
+    "soccer field or stadium",
+  "soccer ball",
+  "goal",
+  "player",
+  "grass field"
+],
+  "surfing crowd": [
+    "beach or surf competition",
+  "surfboard",
+  "crowded water",
+  "surfers",
+  "waves"
+],
+  "triple jump": [
+    "track and field event or stadium",
+  "sand pit",
+  "athlete",
+  "runway",
+  "measurement markers"
+],
+  "pushing cart": [
+    "supermarket or store",
+  "shopping cart",
+  "person",
+  "aisles",
+  "products"
+],
+  "playing ping pong": [
+    "ping pong table or recreational room",
+  "ping pong paddle",
+  "ping pong ball",
+  "table net",
+  "players"
+],
+  "skipping stone": [
+    "lake or river",
+  "stone",
+  "water",
+  "thrower",
+  "ripples"
+],
+  "applauding": [
+    "theater or concert hall",
+  "hands",
+  "audience",
+  "applause",
+  "stage"
+],
+  "delivering mail": [
+    "neighborhood or post office",
+  "mailbag",
+  "envelopes",
+  "mail truck",
+  "mail carrier"
+],
+  "separating eggs": [
+    "kitchen or baking area",
+  "eggs",
+  "bowl",
+  "egg separator",
+  "person"
+],
+  "swing dancing": [
+    "dance hall or vintage event",
+  "dancers",
+  "swing music",
+  "retro outfits",
+  "swing dance moves"
+],
+  "golf chipping": [
+    "golf course or driving range",
+  "golf club",
+  "golf ball",
+  "flag",
+  "golfer"
+],
+  "hockey stop": [
+    "ice rink or hockey field",
+  "hockey player",
+  "skates",
+  "ice",
+  "stopping motion"
+],
+  "bodysurfing": [
+    "ocean or beach",
+  "waves",
+  "swimmer",
+  "body",
+  "riding motion"
+],
+  "playing polo": [
+    "polo field or equestrian arena",
+  "polo mallet",
+  "horse",
+  "ball",
+  "players"
+],
+  "stretching leg": [
+    "gym or fitness studio",
+  "leg",
+  "stretching mat",
+  "person",
+  "flexibility"
+],
+  "rolling pastry": [
+    "kitchen or bakery",
+  "pastry dough",
+  "rolling pin",
+  "flour",
+  "work surface"
+],
+  "washing hands": [
+    "bathroom or kitchen sink",
+  "soap",
+  "water",
+  "hands",
+  "towel"
+],
+  "playing bagpipes": [
+    "Scottish event or parade",
+  "bagpipes",
+  "musician",
+  "tartan outfit",
+  "audience"
+],
+  "riding camel": [
+    "desert or tourist attraction",
+  "camel",
+  "rider",
+  "saddle",
+  "sand dunes"
+],
+  "hugging (not baby)": [
+    "indoor or outdoor",
+  "people",
+  "arms",
+  "embrace",
+  "affection"
+],
+  "longboarding": [
+    "street or skate park",
+  "longboard",
+  "rider",
+  "helmet",
+  "movement"
+],
+  "riding elephant": [
+    "elephant sanctuary or safari",
+  "elephant",
+  "rider",
+  "saddle",
+  "nature"
+],
+  "washing feet": [
+    "bathroom or outdoor area",
+  "water",
+  "feet",
+  "soap",
+  "towel"
+],
+  "tackling": [
+    "football field or rugby pitch",
+  "player",
+  "tackle",
+  "ball",
+  "opponent"
+],
+  "yawning": [
+    "indoor or relaxed setting",
+  "mouth",
+  "yawn",
+  "person",
+  "tiredness"
+],
+  "reading book": [
+    "indoor or cozy setting",
+  "book",
+  "reading glasses",
+  "reader",
+  "comfy chair"
+],
+  "massaging feet": [
+    "spa or relaxation setting",
+  "feet",
+  "massage oil",
+  "massage therapist",
+  "soothing music"
+],
+  "packing": [
+    "bedroom or travel preparation area",
+  "suitcase",
+  "clothes",
+  "toiletries",
+  "person"
+],
+  "shaving legs": [
+    "bathroom or shower",
+  "razor",
+  "shaving cream",
+  "legs",
+  "water"
+],
+  "riding snow blower": [
+    "snowy driveway or street",
+  "snow blower",
+  "person",
+  "snow",
+  "motion"
+],
+  "planting trees": [
+    "garden or outdoor area",
+  "tree sapling",
+  "shovel",
+  "gardener",
+  "soil"
+],
+  "driving car": [
+    "road or street",
+  "car",
+  "driver",
+  "steering wheel",
+  "traffic"
+],
+  "curling hair": [
+    "bathroom or salon",
+  "curling iron",
+  "hair spray",
+  "hair",
+  "mirror"
+],
+  "sucking lolly": [
+    "outdoor or shop",
+  "lollipop",
+  "person",
+  "sucking motion",
+  "wrapper"
+],
+  "surfing water": [
+    "ocean or beach",
+  "surfboard",
+  "surfer",
+  "waves",
+  "leash"
+],
+  "bee keeping": [
+    "apiary or garden",
+  "beehive",
+  "beekeeper suit",
+  "smoker",
+  "bees"
+],
+  "shining flashlight": [
+    "dark area or night time",
+  "flashlight",
+  "hand",
+  "light beam",
+  "surroundings"
+],
+  "card throwing": [
+    "an open space with a target",
+  "playing cards",
+  "target board"
+],
+  "using atm": [
+    "bank or financial institution",
+  "ATM machine",
+  "bank card",
+  "cash"
+],
+  "long jump": [
+    "athletic track or field",
+  "athlete",
+  "sand pit",
+  "measuring tape"
+],
+  "clapping": [
+    "audience or group setting",
+  "hands",
+  "applauding people"
+],
+  "chopping wood": [
+    "outdoor setting, such as a forest or backyard",
+  "axe",
+  "log",
+  "protective gear"
+],
+  "playing maracas": [
+    "musical stage or performance setting",
+  "maracas",
+  "musician",
+  "audience"
+],
+  "chopping vegetables": [
+    "kitchen setting",
+  "knife",
+  "cutting board",
+  "vegetables"
+],
+  "laughing": [
+    "social gathering or comedy show",
+  "people",
+  "smiling faces",
+  "laughter"
+],
+  "making paper aeroplanes": [
+    "classroom or indoor setting",
+  "paper",
+  "folding table",
+  "finished paper airplanes"
+],
+  "swimming breast stroke": [
+    "swimming pool or open water",
+  "swimmer",
+  "goggles",
+  "water"
+],
+  "parkour": [
+    "urban environment with obstacles like walls and railings",
+  "runner",
+  "obstacles",
+  "parkour gear"
+],
+  "sled dog racing": [
+    "snowy landscape or trail",
+  "sled",
+  "dogs",
+  "snow gear"
+],
+  "opening bottle (not wine)": [
+    "kitchen or outdoor setting",
+  "bottle opener",
+  "bottle",
+  "hand"
+],
+  "pushing car": [
+    "road or parking lot",
+  "car",
+  "person",
+  "road"
+],
+  "bull fighting": [
+    "bullring or arena",
+  "bull",
+  "matador",
+  "cape",
+  "audience"
+],
+  "watering plants": [
+    "garden or indoor plant setting",
+  "watering can",
+  "plants",
+  "soil",
+  "water"
+],
+  "sanding floor": [
+    "indoor room with wooden floors",
+  "sander machine",
+  "protective gear",
+  "wood dust",
+  "flooring material"
+],
+  "lawn mower racing": [
+    "outdoor grassy field or track",
+  "lawn mower",
+  "helmet",
+  "racing gear",
+  "spectators"
+],
+  "beatboxing": [
+    "music studio or stage setting",
+  "beatboxer",
+  "microphone",
+  "sound system"
+],
+  "tap dancing": [
+    "dance studio or theater stage",
+  "tap shoes",
+  "dancer",
+  "wooden floor",
+  "music"
+],
+  "playing harp": [
+    "concert hall or music studio",
+  "harp",
+  "musician",
+  "sheet music"
+],
+  "mountain climber (exercise)": [
+    "mountain or indoor climbing gym",
+  "climber",
+  "harness",
+  "rope",
+  "carabiner"
+],
+  "stretching arm": [
+    "indoor or outdoor exercise area",
+  "person",
+  "arm",
+  "exercise mat"
+],
+  "tie dying": [
+    "outdoor or craft workshop setting",
+  "fabric",
+  "dye bottles",
+  "rubber bands",
+  "gloves"
+],
+  "snatch weight lifting": [
+    "gym or weightlifting competition setting",
+  "barbell",
+  "weight plates",
+  "weightlifter",
+  "judges"
+],
+  "robot dancing": [
+    "dance floor or stage",
+  "dancer",
+  "robot costume",
+  "music",
+  "spectators"
+],
+  "cutting pineapple": [
+    "kitchen setting",
+  "pineapple",
+  "knife",
+  "cutting board",
+  "plate"
+],
+  "cooking on campfire": [
+    "outdoor camping area or forest",
+  "campfire",
+  "cooking pot",
+  "utensils",
+  "ingredients"
+],
+  "geocaching": [
+    "outdoor park or natural environment",
+  "GPS device",
+  "geocache container",
+  "treasure items"
+],
+  "carrying baby": [
+    "indoor or outdoor setting",
+  "baby",
+  "diaper bag",
+  "stroller",
+  "parent"
+],
+  "visiting the zoo": [
+    "zoo or wildlife park",
+  "animals",
+  "visitors",
+  "zoo map",
+  "camera"
+],
+  "hitting baseball": [
+    "baseball field or stadium",
+  "baseball bat",
+  "baseball ball",
+  "pitcher",
+  "batter"
+],
+  "jumpstyle dancing": [
+    "dance club or dance competition setting",
+  "dancer",
+  "music",
+  "dance floor",
+  "spectators"
+],
+  "coloring in": [
+    "indoor setting like home or school",
+  "coloring book",
+  "crayons",
+  "drawing paper",
+  "table"
+],
+  "building shed": [
+    "backyard or construction site",
+  "wood planks",
+  "hammer",
+  "nails",
+  "shovel"
+],
+  "playing scrabble": [
+    "living room or game room",
+  "scrabble board",
+  "letter tiles",
+  "players",
+  "score pad"
+],
+  "doing aerobics": [
+    "fitness studio or gym",
+  "exercise mat",
+  "dumbbells",
+  "music",
+  "instructor"
+],
+  "drumming fingers": [
+    "desk or table surface",
+  "fingers",
+  "nails",
+  "hard surface"
+],
+  "drooling": [
+  "close-up of face",
+  "mouth",
+  "saliva",
+  "person"
+],
+  "making a sandwich": [
+    "kitchen setting",
+  "bread slices",
+  "cheese",
+  "lettuce",
+  "knife"
+],
+  "petting cat": [
+    "living room or home setting",
+  "cat",
+  "hand",
+  "couch",
+  "cat toys"
+],
+  "blasting sand": [
+    "beach or sand dunes",
+  "sand",
+  "blasting machine",
+  "protective gear",
+  "beach towels"
+],
+  "dodgeball": [
+    "gymnasium or outdoor court",
+  "dodgeballs",
+  "players",
+  "boundary lines",
+  "referee"
+],
+  "assembling bicycle": [
+    "workshop or garage",
+  "bicycle parts",
+  "tools",
+  "instruction manual",
+  "work stand"
+],
+  "eating ice cream": [
+    "outdoor park or ice cream shop",
+  "ice cream cone",
+  "person",
+  "spoon",
+  "napkin"
+],
+  "shoveling snow": [
+    "outdoor snowy area",
+  "snow shovel",
+  "snow",
+  "winter clothing",
+  "gloves"
+],
+  "kicking field goal": [
+    "football field or stadium",
+  "football",
+  "goal posts",
+  "kicker",
+  "holder"
+],
+  "playing blackjack": [
+    "casino or card game table",
+  "cards",
+  "chips",
+  "dealer",
+  "players"
+],
+  "cooking scallops": [
+    "kitchen or restaurant setting",
+  "scallops",
+  "frying pan",
+  "butter",
+  "lemon"
+],
+  "building sandcastle": [
+    "beach or sandpit",
+  "sand",
+  "buckets",
+  "shovels",
+  "decorative shells"
+],
+  "tasting wine": [
+    "winery or wine tasting event",
+  "wine glass",
+  "wine bottle",
+  "corkscrew",
+  "wine taster"
+],
+  "twiddling fingers": [
+    "close-up shot of hands",
+  "fingers",
+  "nails",
+  "hand movements"
+],
+  "tying shoe laces": [
+    "indoor or outdoor setting",
+  "shoes",
+  "shoelaces",
+  "hands",
+  "feet"
+],
+  "juggling soccer ball": [
+    "soccer field or sports ground",
+  "soccer ball",
+  "juggler",
+  "soccer cleats",
+  "goal post"
+],
+  "sign language interpreting": [
+    "meeting room or stage",
+  "sign language interpreter",
+  "sign language gestures",
+  "audience",
+  "microphone"
+],
+  "playing netball": [
+    "netball court or sports hall",
+  "netball",
+  "players",
+  "hoop",
+  "court lines"
+],
+  "hopscotch": [
+    "playground or school yard",
+  "hopscotch grid",
+  "chalk",
+  "small stone",
+  "players"
+],
+  "ice swimming": [
+    "frozen lake or cold water body",
+  "swimmer",
+  "icy water",
+  "towels",
+  "sauna"
+],
+  "recording music": [
+    "music studio or home recording setup",
+  "musical instruments",
+  "microphones",
+  "computer",
+  "soundproofing materials"
+],
+  "clean and jerk": [
+    "weightlifting gym or competition stage",
+  "barbell",
+  "weights",
+  "weightlifter",
+  "spotter"
+],
+  "marching": [
+    "parade ground or marching band setting",
+  "marchers",
+  "uniforms",
+  "instruments",
+  "flags"
+],
+  "opening present": [
+    "living room or party setting",
+  "gift wrap",
+  "ribbon",
+  "present box",
+  "excited person"
+],
+  "shaving head": [
+    "bathroom or barber shop",
+  "razor",
+  "shaving cream",
+  "mirror",
+  "person"
+],
+  "slacklining": [
+    "outdoor park or beach setting",
+  "slackline",
+  "tree anchors",
+  "balance pole",
+  "safety harness"
+],
+  "shining shoes": [
+    "shoe shining stand or shoe store",
+  "shoes",
+  "shoe polish",
+  "brush",
+  "cloth"
+],
+  "capoeira": [
+    "open space like a gym or park",
+  "capoeira practitioners",
+  "berimbau",
+  "drums",
+  "musical instruments"
+],
+  "making sushi": [
+    "sushi restaurant or kitchen",
+  "rice",
+  "fish",
+  "seaweed",
+  "sushi rolling mat"
+],
+  "building cabinet": [
+    "workshop or carpentry studio",
+  "wood planks",
+  "screws",
+  "hammer",
+  "saw"
+],
+  "tossing coin": [
+    "outdoor or indoor setting",
+  "coin",
+  "hand",
+  "surfaces",
+  "heads or tails"
+],
+  "folding paper": [
+    "desk or table surface",
+  "paper",
+  "folding creases",
+  "hands",
+  "origami instructions"
+],
+  "shopping": [
+    "mall, supermarket, or shopping street",
+  "shopping bags",
+  "products",
+  "money",
+  "shopping cart"
+],
+  "opening refrigerator": [
+    "kitchen or dining area",
+  "refrigerator",
+  "door handle",
+  "food items",
+  "light"
+],
+  "tai chi": [
+    "park or serene outdoor area",
+  "practitioner",
+  "flowing movements",
+  "balance",
+  "relaxation"
+],
+  "swimming front crawl": [
+    "swimming pool or open water",
+  "swimmer",
+  "goggles",
+  "swimsuit",
+  "water"
+],
+  "photocopying": [
+    "office or copy center",
+  "photocopier machine",
+  "paper sheets",
+  "toner cartridges",
+  "hand pressing buttons"
+],
+  "sweeping floor": [
+    "indoor room or outdoor area",
+  "broom",
+  "dustpan",
+  "dirt",
+  "sweeping motion"
+],
+  "talking on cell phone": [
+    "indoor or outdoor setting",
+  "cell phone",
+  "person",
+  "earbuds",
+  "hand gestures"
+],
+  "repairing puncture": [
+    "roadside or workshop",
+  "bike or tire",
+  "puncture repair kit",
+  "pump",
+  "tools"
+],
+  "doing laundry": [
+    "laundry room or utility area",
+  "washing machine",
+  "laundry detergent",
+  "clothes basket",
+  "clothes"
+],
+  "spelunking": [
+    "cave or underground cave system",
+  "caving gear",
+  "helmet",
+  "ropes",
+  "headlamp"
+],
+  "making horseshoes": [
+    "blacksmith workshop or farm setting",
+  "metal rod",
+  "forge",
+  "anvil",
+  "hammer"
+],
+  "laying stone": [
+    "outdoor garden or construction site",
+  "stones",
+  "shovel",
+  "level",
+  "gravel"
+],
+  "playing ice hockey": [
+    "ice rink or indoor arena",
+  "ice hockey stick",
+  "puck",
+  "skates",
+  "goal net"
+],
+  "changing oil": [
+    "car garage or workshop",
+  "oil pan",
+  "funnel",
+  "wrench",
+  "new oil filter"
+],
+  "putting on mascara": [
+    "bathroom or dressing table",
+  "mascara tube",
+  "mascara wand",
+  "mirror",
+  "eyelashes"
+],
+  "playing piano": [
+    "music room or concert hall",
+  "piano",
+  "pianist",
+  "sheet music",
+  "bench"
+],
+  "playing recorder": [
+    "classroom or music studio",
+  "recorder",
+  "music stand",
+  "music sheets",
+  "musician"
+],
+  "snowmobiling": [
+    "snowy field or snow-covered trail",
+  "snowmobile",
+  "snow gear",
+  "helmet",
+  "gloves"
+],
+  "planing wood": [
+    "woodworking workshop or carpentry studio",
+  "wood plank",
+  "hand plane",
+  "workbench",
+  "sawdust"
+],
+  "blowing glass": [
+    "glassblowing studio or workshop",
+  "glass rod",
+  "blowpipe",
+  "furnace",
+  "molten glass"
+],
+  "getting a haircut": [
+    "hair salon or barber shop",
+  "scissors",
+  "hair clippers",
+  "comb",
+  "hair stylist"
+],
+  "arm wrestling": [
+    "arm wrestling table or bar setting",
+  "arms",
+  "table",
+  "competitors",
+  "referee"
+],
+  "pinching": [
+    "close-up shot of fingers or hand",
+  "fingers",
+  "hand",
+  "pinching motion"
+],
+  "auctioning": [
+    "auction house or event venue",
+  "auctioneer",
+  "bidders",
+  "auction items",
+  "bidding paddles"
+],
+  "person collecting garbage": [
+    "urban street or residential area",
+  "garbage bags",
+  "trash bin",
+  "garbage truck",
+  "collector"
+],
+  "putting on lipstick": [
+    "bathroom or dressing table",
+  "lipstick tube",
+  "mirror",
+  "lips",
+  "makeup artist"
+],
+  "playing pan pipes": [
+    "outdoor setting or music studio",
+  "pan pipes",
+  "musician",
+  "musical notes",
+  "audience"
+],
+  "passing american football (in game)": [
+    "american football field or stadium",
+  "american football",
+  "players",
+  "goal posts",
+  "referee"
+],
+  "massaging legs": [
+    "massage therapy room or spa",
+  "massage oil",
+  "massage table",
+  "legs",
+  "therapist"
+],
+  "running on treadmill": [
+    "gym or fitness center",
+  "treadmill machine",
+  "person",
+  "running shoes",
+  "towel"
+],
+  "tapping pen": [
+    "desk or work surface",
+  "pen",
+  "hand",
+  "paper",
+  "tapping sound"
+],
+  "ski jumping": [
+    "ski jumping hill or ski resort",
+  "skis",
+  "ski jumper",
+  "ski jumping ramp",
+  "spectators"
+],
+  "drawing": [
+    "art studio, classroom, or outdoor setting",
+  "paper",
+  "pencils or pens",
+  "drawing board",
+  "artist"
+],
+  "burping": [
+  "close-up shot of a person",
+  "person",
+  "mouth",
+  "burping sound"
+],
+  "playing harmonica": [
+    "outdoor park or music studio",
+  "harmonica",
+  "musician",
+  "music stand",
+  "audience"
+],
+  "luge": [
+    "luge track or ice track",
+  "luge sled",
+  "athlete",
+  "helmet",
+  "ice track"
+],
+  "sneezing": [
+    "indoor or outdoor setting",
+  "person",
+  "sneeze",
+  "tissue",
+  "hand"
+],
+  "cutting apple": [
+    "kitchen or dining area",
+  "apple",
+  "knife",
+  "cutting board",
+  "plate"
+],
+  "tightrope walking": [
+    "Circus setting or high wire outdoors",
+  "tightrope",
+  "balance pole",
+  "walker",
+  "audience"
+],
+  "roller skating": [
+    "roller rink or skate park",
+  "roller skates",
+  "helmet",
+  "knee pads",
+  "skate ramp"
+],
+  "docking boat": [
+    "marina or waterfront",
+  "boat",
+  "docking ropes",
+  "docking platform",
+  "person"
+],
+  "headbutting": [
+    "outdoor or indoor setting",
+  "two heads",
+  "impact",
+  "physical confrontation"
+],
+  "trimming trees": [
+    "garden or outdoor area",
+  "tree branches",
+  "pruning shears",
+  "ladder",
+  "gardener"
+],
+  "reading newspaper": [
+    "living room or coffee shop",
+  "newspaper",
+  "reading glasses",
+  "cup of coffee",
+  "person"
+],
+  "base jumping": [
+    "cliff or tall structure",
+  "parachute",
+  "jumpsuit",
+  "helmet",
+  "base jumper"
+],
+  "using a paint roller": [
+    "indoor or outdoor wall",
+  "paint roller",
+  "paint tray",
+  "wall paint",
+  "person"
+],
+  "air drumming": [
+    "music studio or performance stage",
+  "air drummer",
+  "drum sticks",
+  "imaginary drums",
+  "passion"
+],
+  "flipping pancake": [
+    "kitchen or dining area",
+  "pancake",
+  "frying pan",
+  "spatula",
+  "stove"
+],
+  "shooting basketball": [
+    "basketball court or gym",
+  "basketball",
+  "hoop",
+  "player",
+  "defender"
+],
+  "karaoke": [
+    "karaoke bar or living room",
+  "microphone",
+  "karaoke screen",
+  "singers",
+  "music selection"
+],
+  "abseiling": [
+    "rock face or outdoor cliff",
+  "rope",
+  "harness",
+  "climber",
+  "descender device"
+],
+  "eating watermelon": [
+    "outdoor picnic or kitchen",
+  "watermelon",
+  "knife",
+  "person",
+  "plate"
+],
+  "shaping bread dough": [
+    "kitchen or bakery",
+  "bread dough",
+  "rolling pin",
+  "work surface",
+  "baker"
+],
+  "barbequing": [
+    "backyard or outdoor setting",
+  "grill",
+  "charcoal",
+  "meat",
+  "tongs"
+],
+  "walking the dog": [
+    "park or street",
+  "dog",
+  "leash",
+  "dog owner",
+  "poop bags"
+],
+  "fidgeting": [
+    "office or waiting room",
+  "person",
+  "fingers",
+  "nervous behavior",
+  "desk or chair"
+],
+  "putting on shoes": [
+    "indoor setting like home or hallway",
+  "shoes",
+  "feet",
+  "hands",
+  "chair or bench"
+],
+  "playing didgeridoo": [
+    "outdoor setting or music studio",
+  "didgeridoo",
+  "musician",
+  "aboriginal art",
+  "drone sound"
+],
+  "washing dishes": [
+    "kitchen or sink area",
+  "dishes",
+  "sponge",
+  "dish soap",
+  "dish rack"
+],
+  "cooking egg": [
+    "kitchen or cooking area",
+  "egg",
+  "frying pan",
+  "stove",
+  "spatula"
+],
+  "cleaning windows": [
+    "indoor or outdoor setting",
+  "window cleaning solution",
+  "squeegee",
+  "microfiber cloth",
+  "ladder"
+],
+  "catching or throwing baseball": [
+    "baseball field or park",
+  "baseball",
+  "glove",
+  "player",
+  "pitcher mound"
+],
+  "mopping floor": [
+    "indoor room or hallway",
+  "mop",
+  "bucket",
+  "cleaning solution",
+  "floor"
+],
+  "paragliding": [
+    "mountain or hilltop",
+  "paraglider",
+  "paragliding wing",
+  "harness",
+  "helmet"
+],
+  "gold panning": [
+    "river or stream",
+  "gold pan",
+  "shovel",
+  "bucket",
+  "water"
+],
+  "bouncing on bouncy castle": [
+    "party or event setting",
+  "bouncy castle",
+  "children",
+  "inflatable structure",
+  "joyful atmosphere"
+],
+  "cutting watermelon": [
+    "kitchen or outdoor setting",
+  "watermelon",
+  "knife",
+  "cutting board",
+  "slices"
+],
+  "cosplaying": [
+    "cosplay event or convention",
+  "costume",
+  "props",
+  "cosplayers",
+  "crowd"
+],
+  "playing chess": [
+    "living room or chess club",
+  "chessboard",
+  "chess pieces",
+  "players",
+  "clock"
+],
+  "massaging person's head": [
+    "spa or massage therapy room",
+  "massage oil",
+  "massage table",
+  "head massager",
+  "relaxing atmosphere"
+],
+  "country line dancing": [
+    "country western dance hall or barn",
+  "country line dancers",
+  "cowboy boots",
+  "western attire",
+  "dance floor"
+],
+  "crossing eyes": [
+    "close-up shot of face",
+  "eyes",
+  "face",
+  "eye movement",
+  "person"
+],
+  "zumba": [
+    "dance studio or fitness class",
+  "Zumba instructor",
+  "dancers",
+  "music",
+  "energy"
+],
+  "breaking boards": [
+    "martial arts dojo or demonstration area",
+  "wooden boards",
+  "martial artist",
+  "uniform",
+  "spectators"
+],
+  "sharpening pencil": [
+    "desk or school classroom",
+  "pencil",
+  "pencil sharpener",
+  "shavings",
+  "desk"
+],
+  "rock climbing": [
+    "indoor climbing gym or outdoor rock formation",
+  "climber",
+  "harness",
+  "rope",
+  "carabiner"
+],
+  "making balloon shapes": [
+    "party or entertainment event",
+  "balloons",
+  "air pump",
+  "balloon shaping tools",
+  "entertainer"
+],
+  "eating burger": [
+    "restaurant or outdoor picnic",
+  "burger",
+  "bun",
+  "lettuce",
+  "person"
+],
+  "gospel singing in church": [
+    "church or worship hall",
+  "choir members",
+  "gospel music sheet",
+  "microphone",
+  "worshippers"
+],
+  "tying necktie": [
+    "dressing room or mirror",
+  "necktie",
+  "mirror",
+  "collar shirt",
+  "person"
+],
+  "cartwheeling": [
+    "gymnastics class or open field",
+  "person",
+  "grass",
+  "cartwheel movement",
+  "smile"
+],
+  "jumping into pool": [
+    "swimming pool or outdoor pool",
+  "pool",
+  "diver",
+  "splash",
+  "swimsuit"
+],
+  "laying tiles": [
+    "kitchen or bathroom floor",
+  "tiles",
+  "tile adhesive",
+  "trowel",
+  "level"
+],
+  "adjusting glasses": [
+    "indoor or outdoor setting",
+  "glasses",
+  "hand",
+  "ears",
+  "frames"
+],
+  "grooming dog": [
+    "pet grooming salon or home",
+  "dog",
+  "brush",
+  "pet shampoo",
+  "groomer"
+],
+  "chiseling stone": [
+    "outdoor workshop or quarry",
+  "chisel",
+  "hammer",
+  "stone block",
+  "safety goggles"
+],
+  "bending metal": [
+    "metal workshop or fabrication shop",
+  "metal bar",
+  "metal bending machine",
+  "workbench",
+  "protective gloves"
+],
+  "pole vault": [
+    "stadium or athletic field",
+  "pole vault pole",
+  "landing mat",
+  "athlete",
+  "officials"
+],
+  "attending conference": [
+    "conference hall or auditorium",
+  "conference attendees",
+  "speakers",
+  "presentation slides",
+  "seats"
+],
+  "sailing": [
+    "open water or marina",
+  "sailboat",
+  "sails",
+  "ocean",
+  "sailor"
+],
+  "throwing axe": [
+    "axe throwing range or outdoor area",
+  "axe",
+  "target board",
+  "thrower",
+  "safety gear"
+],
+  "deadlifting": [
+    "gym or weightlifting area",
+  "barbell",
+  "weight plates",
+  "weightlifter",
+  "lifting platform"
+],
+  "playing trombone": [
+    "music studio or concert hall",
+  "trombone",
+  "music stand",
+  "musician",
+  "audience"
+],
+  "backflip (human)": [
+    "gymnastics mat or outdoor stunt area",
+  "person",
+  "backflip",
+  "landing spot",
+  "audience"
+],
+  "making cheese": [
+    "kitchen or cheese production facility",
+  "milk",
+  "cheese cultures",
+  "rennet",
+  "cheese press"
+],
+  "lunge": [
+    "fitness studio or gym",
+  "person",
+  "lunging movement",
+  "exercise mat",
+  "dumbbells"
+],
+  "playing cricket": [
+    "cricket field or stadium",
+  "cricket bat",
+  "cricket ball",
+  "wickets",
+  "players"
+],
+  "playing xylophone": [
+    "music room or stage",
+  "xylophone",
+  "mallets",
+  "music stand",
+  "musician"
+],
+  "fixing bicycle": [
+    "bike repair shop or garage",
+  "bicycle",
+  "tools",
+  "tire pump",
+  "bike stand"
+],
+  "making bubbles": [
+    "outdoor park or garden",
+  "bubble solution",
+  "bubble wand",
+  "bubbles",
+  "excited person"
+],
+  "push up": [
+    "fitness studio or gym",
+  "person",
+  "exercise mat",
+  "push-up movement",
+  "muscles"
+],
+  "waxing legs": [
+    "beauty salon or bathroom",
+  "wax strips",
+  "waxing pot",
+  "applicator stick",
+  "smooth legs"
+],
+  "riding scooter": [
+    "urban street or park",
+  "scooter",
+  "helmet",
+  "rider",
+  "handlebars"
+],
+  "throwing tantrum": [
+    "indoor or outdoor setting",
+  "person",
+  "emotional outburst",
+  "loud noise",
+  "frustration"
+],
+  "exercising with an exercise ball": [
+    "gym or fitness studio",
+  "exercise ball",
+  "person",
+  "exercise mat",
+  "fitness routine"
+],
+  "golf putting": [
+    "golf course or putting green",
+  "golf ball",
+  "putter",
+  "hole",
+  "golfer"
+],
+  "curling (sport)": [
+    "curling rink or ice arena",
+  "curling stone",
+  "broom",
+  "ice sheet",
+  "curlers"
+],
+  "playing gong": [
+    "music studio or concert hall",
+  "gong",
+  "mallet",
+  "music stand",
+  "musician"
+],
+  "passing american football (not in game)": [
+    "outdoor field or practice area",
+  "american football",
+  "players",
+  "passes",
+  "drills"
+],
+  "peeling apples": [
+    "kitchen or food preparation area",
+  "apples",
+  "peeler",
+  "cutting board",
+  "fruit basket"
+],
+  "picking fruit": [
+    "orchard or fruit garden",
+  "fruit trees",
+  "fruit baskets",
+  "gloves",
+  "harvester"
+],
+  "squat": [
+    "gym or fitness studio",
+  "person",
+  "squatting movement",
+  "barbell",
+  "weights"
+],
+  "slapping": [
+    "indoor or outdoor setting",
+  "hand",
+  "slapping sound",
+  "person",
+  "reaction"
+],
+  "using a sledge hammer": [
+    "construction site or demolition area",
+  "sledgehammer",
+  "heavy materials",
+  "work gloves",
+  "protective goggles"
+],
+  "archery": [
+    "archery range or outdoor field",
+  "bow",
+  "arrows",
+  "target",
+  "archer"
+],
+  "shot put": [
+    "athletic field or sports ground",
+  "shot put ball",
+  "throwing circle",
+  "athlete",
+  "measuring tape"
+],
+  "throwing knife": [
+    "outdoor target practice area",
+  "throwing knife",
+  "target board",
+  "thrower",
+  "precision"
+],
+  "tango dancing": [
+    "dance studio or ballroom",
+  "dancers",
+  "tango music",
+  "flowing movements",
+  "passion"
+],
+  "riding mule": [
+    "rural area or mountain trail",
+  "mule",
+  "saddle",
+  "rider",
+  "scenery"
+],
+  "passing soccer ball": [
+    "soccer field or training ground",
+  "soccer ball",
+  "players",
+  "passes",
+  "drills"
+],
+  "smoking hookah": [
+    "hookah lounge or outdoor setting",
+  "hookah pipe",
+  "charcoal",
+  "flavored tobacco",
+  "smoker"
+],
+  "playing drums": [
+    "music studio or stage",
+  "drum set",
+  "drum sticks",
+  "drummer",
+  "rhythm"
+],
+  "pushing wheelchair": [
+    "hospital or outdoor path",
+  "wheelchair",
+  "person",
+  "pushing hands",
+  "wheelchair user"
+],
+  "pirouetting": [
+    "ballet studio or stage",
+  "dancer",
+  "pointe shoes",
+  "spinning movement",
+  "graceful posture"
+],
+  "playing pinball": [
+    "an arcade",
+  "pinball machine",
+  "flippers",
+  "ball"
+],
+  "unloading truck": [
+    "a warehouse",
+  "truck",
+  "boxes",
+  "pallet jack"
+],
+  "dunking basketball": [
+    "a basketball court",
+  "basketball hoop",
+  "basketball",
+  "player"
+],
+  "cleaning pool": [
+    "a backyard with a swimming pool",
+  "skimmer net",
+  "pool brush",
+  "pool vacuum"
+],
+  "sipping cup": [
+    "a cafe or kitchen",
+  "cup",
+  "beverage",
+  "person"
+],
+  "sharpening knives": [
+    "a kitchen",
+  "knife",
+  "sharpening tool",
+  "cutting board"
+],
+  "putting in contact lenses": [
+    "a bathroom or bedroom",
+  "contact lenses",
+  "contact lens case",
+  "mirror"
+],
+  "arguing": [
+    "an indoor setting with people",
+  "people",
+  "raised voices",
+  "gestures"
+],
+  "counting money": [
+    "an office or financial institution",
+  "cash",
+  "counting machine",
+  "person"
+],
+  "plastering": [
+    "a construction site or indoor renovation area",
+  "plaster",
+  "trowel",
+  "scaffolding"
+],
+  "making the bed": [
+    "a bedroom",
+  "bedsheet",
+  "pillows",
+  "duvet",
+  "person"
+],
+  "putting on eyeliner": [
+    "a bathroom or dressing room",
+  "eyeliner pencil",
+  "mirror",
+  "person"
+],
+  "walking through snow": [
+    "a snowy outdoor setting",
+  "snow",
+  "winter boots",
+  "person"
+],
+  "diving cliff": [
+    "a cliff near a body of water",
+  "cliff",
+  "diver",
+  "water"
+],
+  "gymnastics tumbling": [
+    "a gymnastics gym or mat area",
+  "gymnast",
+  "tumbling mat",
+  "springboard"
+],
+  "installing carpet": [
+    "an indoor space like a living room or office",
+  "carpet rolls",
+  "tack strips",
+  "knee kicker"
+],
+  "tasting food": [
+    "a kitchen or dining area",
+  "food",
+  "utensils",
+  "person"
+],
+  "making jewelry": [
+    "a jewelry workshop or crafting area",
+  "beads",
+  "jewelry tools",
+  "wire"
+],
+  "climbing tree": [
+    "an outdoor setting with trees",
+  "tree",
+  "climber",
+  "branches"
+],
+  "javelin throw": [
+    "an athletics field or stadium",
+  "javelin",
+  "athlete",
+  "landing area"
+],
+  "playing ukulele": [
+    "a music room or cozy living room",
+  "ukulele",
+  "music stand",
+  "musician"
+],
+  "directing traffic": [
+    "an intersection or busy street",
+  "traffic cones",
+  "reflective vest",
+  "whistle"
+],
+  "lighting fire": [
+    "an outdoor setting like a campsite or fireplace",
+  "matches",
+  "firewood",
+  "lighter"
+],
+  "playing marbles": [
+    "a playground or flat surface",
+  "marbles",
+  "player",
+  "circle drawn on the ground"
+],
+  "calligraphy": [
+    "a desk or studio",
+  "calligraphy pen",
+  "ink",
+  "paper"
+],
+  "playing with trains": [
+    "a train set or model train display",
+  "trains",
+  "tracks",
+  "engineer figure"
+],
+  "canoeing or kayaking": [
+    "a river, lake, or body of water",
+  "canoe or kayak",
+  "paddle",
+  "life jacket"
+],
+  "snorkeling": [
+    "an ocean or sea",
+  "snorkel mask",
+  "snorkel tube",
+  "flippers",
+  "snorkeler"
+],
+  "setting table": [
+    "a dining room or kitchen",
+  "plates",
+  "cutlery",
+  "glasses",
+  "tablecloth"
+],
+  "brushing teeth": [
+    "a bathroom",
+  "toothbrush",
+  "toothpaste",
+  "water faucet"
+],
+  "mushroom foraging": [
+    "a forest or wooded area",
+  "mushrooms",
+  "basket",
+  "forager"
+],
+  "ice skating": [
+    "an ice rink or frozen lake",
+  "ice skates",
+  "ice",
+  "skater"
+],
+  "bulldozing": [
+    "a construction site or demolition area",
+  "bulldozer",
+  "debris",
+  "dust cloud"
+],
+  "biking through snow": [
+    "a snowy outdoor setting",
+  "snowy trail",
+  "fat-tire bike",
+  "rider"
+],
+  "singing": [
+    "a stage, recording studio, or living room",
+  "microphone",
+  "music stand",
+  "singer"
+],
+  "punching person (boxing)": [
+    "a boxing ring or gym",
+  "boxing gloves",
+  "boxing bag",
+  "boxer"
+],
+  "swinging on something": [
+    "a playground or park",
+  "swing set",
+  "person",
+  "chains"
+],
+  "lifting hat": [
+    "an indoor setting like a room or office",
+  "hat",
+  "person",
+  "hand"
+],
+  "milking cow": [
+    "a farm or barn",
+  "cow",
+  "milking machine",
+  "bucket"
+],
+  "swimming backstroke": [
+    "a swimming pool or body of water",
+  "swimmer",
+  "backstroke technique",
+  "lane lines"
+],
+  "using remote controller (not gaming)": [
+    "a living room or entertainment area",
+  "remote controller",
+  "television",
+  "person"
+],
+  "card stacking": [
+    "a table or flat surface",
+  "playing cards",
+  "person",
+  "card tower"
+],
+  "pumping fist": [
+    "a sports event or celebration",
+  "hand",
+  "person",
+  "excitement"
+],
+  "chiseling wood": [
+    "a woodworking workshop or outdoor work area",
+  "wood",
+  "chisel",
+  "workbench"
+],
+  "tasting beer": [
+    "a brewery, bar, or social gathering",
+  "beer glass",
+  "beer bottle",
+  "person"
+],
+  "playing guitar": [
+    "a music room, stage, or outdoor area",
+  "guitar",
+  "musician",
+  "pick"
+],
+  "looking at phone": [
+    "an indoor setting like a room or office",
+  "phone",
+  "person",
+  "screen"
+],
+  "feeding goats": [
+    "a farm or barn",
+  "goats",
+  "feed",
+  "person"
+],
+  "checking tires": [
+    "a garage or car repair shop",
+  "car tires",
+  "pressure gauge",
+  "person"
+],
+  "playing trumpet": [
+    "a music room, stage, or auditorium",
+  "trumpet",
+  "musician",
+  "sheet music"
+],
+  "pumping gas": [
+    "a gas station or near a vehicle",
+  "gas pump",
+  "vehicle",
+  "person"
+],
+  "skiing mono": [
+    "a ski slope or snowy mountain",
+  "monoski",
+  "ski poles",
+  "skier"
+],
+  "cumbia": [
+    "a dance studio or festive event",
+  "dancers",
+  "music",
+  "rhythm"
+],
+  "windsurfing": [
+    "an ocean or lake with wind",
+  "windsurf board",
+  "sail",
+  "windsurfer"
+],
+  "waving hand": [
+    "a greeting situation or event",
+  "hand",
+  "person",
+  "friendly gesture"
+],
+  "assembling computer": [
+    "a computer workshop or office",
+  "computer components",
+  "screwdriver",
+  "person"
+],
+  "eating carrots": [
+    "a kitchen, dining area, or outdoor setting",
+  "carrots",
+  "plate",
+  "person"
+],
+  "sewing": [
+    "a sewing room or workspace",
+  "sewing machine",
+  "fabric",
+  "thread"
+],
+  "baking cookies": [
+    "a kitchen or baking area",
+  "cookie dough",
+  "oven",
+  "baking tray"
+],
+  "hand washing clothes": [
+    "a laundry room or outdoor wash area",
+  "clothes",
+  "basin",
+  "soap"
+],
+  "making pizza": [
+    "a kitchen or pizzeria",
+  "dough",
+  "tomato sauce",
+  "cheese",
+  "oven"
+],
+  "waxing eyebrows": [
+    "a beauty salon or bathroom",
+  "wax",
+  "applicator stick",
+  "mirror"
+],
+  "playing flute": [
+    "a music room, concert hall, or outdoor area",
+  "flute",
+  "musician",
+  "sheet music"
+],
+  "pull ups": [
+    "a gym or outdoor fitness area",
+  "pull-up bar",
+  "athlete",
+  "workout attire"
+],
+  "bartending": [
+    "a bar or restaurant",
+  "bar counter",
+  "bottles",
+  "cocktail shaker",
+  "bartender"
+],
+  "standing on hands": [
+    "a fitness gym or yoga studio",
+  "person",
+  "hands",
+  "balance"
+],
+  "skateboarding": [
+    "a skate park or urban setting",
+  "skateboard",
+  "ramp",
+  "skateboarder"
+],
+  "putting on sari": [
+    "a bedroom or dressing room",
+  "sari",
+  "blouse",
+  "petticoat",
+  "person"
+],
+  "egg hunting": [
+    "an outdoor setting like a garden or park",
+  "eggs",
+  "basket",
+  "children",
+  "grass"
+],
+  "playing saxophone": [
+    "a music room, stage, or outdoor area",
+  "saxophone",
+  "musician",
+  "sheet music"
+],
+  "vacuuming floor": [
+    "an indoor setting like a room or hallway",
+  "vacuum cleaner",
+  "floor",
+  "person"
+],
+  "archaeological excavation": [
+    "an outdoor archaeological site",
+  "shovel",
+  "brush",
+  "artifacts",
+  "archaeologist"
+],
+  "breakdancing": [
+    "a dance studio, street, or stage",
+  "dancer",
+  "music",
+  "b-boy moves"
+],
+  "throwing discus": [
+    "an athletics field or stadium",
+  "discus",
+  "athlete",
+  "throwing circle"
+],
+  "playing laser tag": [
+    "a laser tag arena or indoor play area",
+  "laser gun",
+  "vest",
+  "obstacles",
+  "players"
+],
+  "playing badminton": [
+    "a badminton court or backyard",
+  "badminton racket",
+  "shuttlecock",
+  "net",
+  "players"
+],
+  "chewing gum": [
+    "an indoor or outdoor setting",
+  "chewing gum",
+  "mouth",
+  "person"
+],
+  "moon walking": [
+    "a dance floor or stage",
+  "dancer",
+  "moonwalk dance move",
+  "music"
+],
+  "skiing crosscountry": [
+    "a snowy trail or forest",
+  "cross-country skis",
+  "ski poles",
+  "snow",
+  "skier"
+],
+  "playing beer pong": [
+    "a party or outdoor gathering",
+  "ping pong balls",
+  "cups",
+  "table",
+  "players"
+],
+  "combing hair": [
+    "a bedroom or bathroom",
+  "hairbrush",
+  "hair",
+  "mirror"
+],
+  "yarn spinning": [
+    "a crafting or spinning studio",
+  "yarn",
+  "spinning wheel",
+  "person"
+],
+  "acting in play": [
+    "a theater stage or rehearsal space",
+  "costumes",
+  "script",
+  "actors",
+  "props"
+],
+  "hugging baby": [
+    "a nursery or family room",
+  "baby",
+  "person",
+  "embrace"
+],
+  "cooking sausages (not on barbeque)": [
+    "a kitchen or stovetop area",
+  "sausages",
+  "pan",
+  "spatula",
+  "seasonings"
+],
+  "training dog": [
+    "a dog training facility or outdoor space",
+  "dog",
+  "leash",
+  "training treats",
+  "trainer"
+],
+  "calculating": [
+    "an office, classroom, or study area",
+  "calculator",
+  "pen",
+  "paper",
+  "person"
+],
+  "applying cream": [
+    "a bathroom or bedroom",
+  "cream",
+  "hand",
+  "skin"
+],
+  "scrambling eggs": [
+    "a kitchen or stovetop area",
+  "eggs",
+  "bowl",
+  "whisk",
+  "pan"
+],
+  "salsa dancing": [
+    "a dance club, party, or dance studio",
+  "dancers",
+  "rhythm",
+  "music"
+],
+  "celebrating": [
+    "a festival, party, or special event",
+  "people",
+  "balloons",
+  "decorations",
+  "cheers"
+],
+  "folding clothes": [
+    "a bedroom or laundry room",
+  "clothes",
+  "folding table",
+  "person"
+],
+  "playing cello": [
+    "a music room, orchestra, or stage",
+  "cello",
+  "musician",
+  "sheet music"
+],
+  "using bagging machine": [
+    "a factory or packaging facility",
+  "bagging machine",
+  "bags",
+  "products",
+  "operator"
+],
+  "marriage proposal": [
+    "a romantic setting like a park or restaurant",
+  "ring",
+  "person proposing",
+  "partner",
+  "emotions"
+],
+  "feeding fish": [
+    "an aquarium or pond",
+  "fish",
+  "fish food",
+  "feeding tool",
+  "water"
+],
+  "huddling": [
+    "a sports field or outdoor setting",
+  "players",
+  "huddle formation",
+  "team"
+],
+  "bowling": [
+    "a bowling alley",
+  "bowling ball",
+  "bowling pins",
+  "bowling shoes",
+  "alley lane"
+],
+  "frying vegetables": [
+    "a kitchen or stovetop area",
+  "vegetables",
+  "pan",
+  "oil",
+  "spatula"
+],
+  "waking up": [
+    "a bedroom or sleeping area",
+  "person",
+  "bed",
+  "alarm clock"
+],
+  "skipping rope": [
+    "a fitness gym or outdoor area",
+  "jump rope",
+  "person",
+  "exercise attire"
+],
+  "tobogganing": [
+    "a snowy hill or slope",
+  "sled",
+  "snow",
+  "rider",
+  "winter gear"
+],
+  "popping balloons": [
+    "a party, event, or indoor setting",
+  "balloons",
+  "person",
+  "popping sound"
+],
+  "massaging neck": [
+    "a spa, massage center, or living room",
+  "neck",
+  "massage oil",
+  "hand"
+],
+  "smashing": [
+    "an outdoor area or demolition site",
+  "object being smashed",
+  "force",
+  "debris"
+],
+  "contorting": [
+    "a stage, circus, or yoga studio",
+  "contortionist",
+  "flexibility",
+  "performance area"
+]
+}
