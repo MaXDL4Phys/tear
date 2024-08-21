@@ -16,7 +16,7 @@
     <a href='https://scholar.google.com/citations?hl=en&user=xf1T870AAAAJ' target='_blank'>Elisa Ricci</a><sup>1,2</sup> 
 </div>
 <div>
-    <sup>1</sup>University of Trento, IT&emsp &nbsp;
+    <sup>1</sup>University of Trento, IT &nbsp;
     <sup>2</sup>Fondazione Bruno Kessler (FBK), IT &emsp 
     <sup>3</sup>University of Bologna, IT
 </div>
