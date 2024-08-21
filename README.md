@@ -8,7 +8,7 @@
 <div align="center">
 <h1>TEAR:  Text-Enhanced Zero-Shot Action Recognition</h1>
 <div>
-    Massimo Bosetti</a><sup>1</sup> - 
+    Massimo Bosetti</a><sup>1</sup>
     <a href='https://scholar.google.co.uk/citations?hl=en&user=ZbA-z1cAAAAJ&view_op=list_works&sortby=pubdate' target='_blank'>Shibingfeng Zhang</a><sup>3</sup>
     <a href='https://scholar.google.com/citations?user=UhOIjIwAAAAJ&hl=en&oi=ao' target='_blank'>Benedetta Liberatori</a><sup>1</sup>
     <a href='https://scholar.google.com/citations?hl=en&user=KvwYqUUAAAAJ' target='_blank'>Giacomo Zara</a><sup>1</sup>
