@@ -1,19 +1,38 @@
 
-
-
-
-# TEAR:  Text-Enhanced Zero-Shot Action Recognition
-
-
 <div align="center">
-
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 <a href="https://pytorchlightning.ai/"><img alt="Lightning" src="https://img.shields.io/badge/-Lightning-792ee5?logo=pytorchlightning&logoColor=white"></a>
 <a href="https://hydra.cc/"><img alt="Config: Hydra" src="https://img.shields.io/badge/Config-Hydra-89b8cd"></a>
 <a href="https://github.com/ashleve/lightning-hydra-template"><img alt="Template" src="https://img.shields.io/badge/-Lightning--Hydra--Template-017F2F?style=flat&logo=github&labelColor=gray"></a><br>
 </div>
+<div align="center">
+<h1>TEAR:  Text-Enhanced Zero-Shot Action Recognition</h1>
+<div>
+    Massimo Bosetti</a><sup>1</sup> - 
+    <a href='https://scholar.google.co.uk/citations?hl=en&user=ZbA-z1cAAAAJ&view_op=list_works&sortby=pubdate' target='_blank'>Shibingfeng Zhang</a><sup>3</sup> -
+    <a href='https://scholar.google.com/citations?user=UhOIjIwAAAAJ&hl=en&oi=ao' target='_blank'>Benedetta Liberatori</a><sup>1</sup> - 
+    <a href='https://scholar.google.com/citations?hl=en&user=KvwYqUUAAAAJ' target='_blank'>Giacomo Zara</a><sup>1</sup> -
+    <a href='https://scholar.google.it/citations?user=K1goGQ4AAAAJ&hl=it&oi=ao' target='_blank'>Paolo Rota</a><sup>1,2</sup> -&emsp;
+    <a href='https://scholar.google.com/citations?hl=en&user=xf1T870AAAAJ' target='_blank'>Elisa Ricci</a><sup>1</sup>
+</div>
+<div>
+    <sup>1</sup>University of Trento, IT&emsp;- 
+    <sup>2</sup>Fondazione Bruno Kessler (FBK), IT&emsp; - 
+    <sup>3</sup>University of Bologna, IT
+</div>
 
 <br>
+<img src="media/method.jpg" alt="Paper" width="1200">
+<div align="left">
+
+> **Abstract:** Vision-language models (VLMs) have demonstrated remarkable performance across various visual tasks,
+leveraging joint learning of visual and textual representations. While these models excel in zero-shot image tasks,
+their application to zero-shot video action recognition (ZSVAR) remains challenging due to the dynamic and temporal
+nature of actions.
+Existing methods for ZS-VAR typically require extensive training on specific datasets, which can be resource-intensive
+and may introduce domain biases.
+In this work, we propose **T**ext-**E**nhanced **A**ction **R**ecognition (TEAR), a simple approach to ZS-VAR that is training-free and does not require the availability of training data or extensive computational resources. Drawing inspiration from recent findings in vision and language literature, we utilize action descriptors for decomposition and contextual information to enhance zero-shot action recognition. 
+Through experiments on UCF101, HMDB51, and Kinetics-600 datasets, we showcase the effectiveness and applicability of our proposed approach in addressing the challenges of ZS-VAR.
 
 ## To start
 
