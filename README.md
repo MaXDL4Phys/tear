@@ -10,14 +10,14 @@
 <div>
     Massimo Bosetti</a><sup>1</sup>&nbsp;
     Shibingfeng Zhang</a><sup>3</sup>&nbsp;
-    <a href='https://scholar.google.com/citations?user=UhOIjIwAAAAJ&hl=en&oi=ao' target='_blank'>Benedetta Liberatori</a><sup>1</sup>&nbsp; 
-    <a href='https://scholar.google.com/citations?hl=en&user=KvwYqUUAAAAJ' target='_blank'>Giacomo Zara</a><sup>1</sup>&nbsp;
+    <a href='https://scholar.google.com/citations?user=UhOIjIwAAAAJ&hl=en&oi=ao' target='_blank'>Benedetta Liberatori</a><sup>1</sup>&emsp; 
+    <a href='https://scholar.google.com/citations?hl=en&user=KvwYqUUAAAAJ' target='_blank'>Giacomo Zara</a><sup>1</sup>&emsp;
     <a href='https://scholar.google.it/citations?user=K1goGQ4AAAAJ&hl=it&oi=ao' target='_blank'>Paolo Rota</a><sup>1</sup>&emsp;
     <a href='https://scholar.google.com/citations?hl=en&user=xf1T870AAAAJ' target='_blank'>Elisa Ricci</a><sup>1,2</sup> 
 </div>
 <div>
-    <sup>1</sup>University of Trento, IT &nbsp;
-    <sup>2</sup>Fondazione Bruno Kessler (FBK), IT &emsp 
+    <sup>1</sup>University of Trento, IT &emsp;
+    <sup>2</sup>Fondazione Bruno Kessler (FBK), IT &emsp; 
     <sup>3</sup>University of Bologna, IT
 </div>
 
