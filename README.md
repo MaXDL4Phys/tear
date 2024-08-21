@@ -19,10 +19,14 @@
 
 ```bash
 # clone project
-git clone https://github.com/MaXDL4Phys/ldarl
-cd language_driven_action_recognition_localization
+git clone https://github.com/MaXDL4Phys/tear.git
+cd tear
+```
+```
+# create envirnmente and install requirements
 
-# install requirements
+conda create --name tear python=3.9
+conda activate tear
 pip install -r requirements.txt
 ```
 Then goes to https://github.com/openai/CLIP to install CLIP according to the instructions.
