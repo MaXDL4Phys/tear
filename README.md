@@ -42,17 +42,17 @@ git clone https://github.com/MaXDL4Phys/tear.git
 cd tear
 ```
 ```
-# create envirnmente and install requirements
+# create environment and install requirements
 
 conda create --name tear python=3.9
 conda activate tear
 pip install -r requirements.txt
 ```
-Then goes to https://github.com/openai/CLIP to install CLIP according to the instructions.
+Then go to https://github.com/openai/CLIP to install CLIP according to the instructions.
 
 ## Dataset Downloading and Preparation
 This Python script extracts frames from videos in a dataset (like UCF101, HMDB51, or K600)
-and saves them as images, while also handling directory creation and management.
+and saves them as images while also handling directory creation and management.
 ### UCF101
 
 The code is a Python command to extract frames from the 
@@ -94,7 +94,7 @@ bash ./k600_video_extractor.sh
 ```
 cd language_driven_action_recognition_localization/src/utils
 python extract_frames.py --input <the path to downloaded dataset> --output <where you want to save the extracted frames> --dataset=k600
-#Create symbolic link to the folder where extracted images are saved at language_driven_action_recognition_localization/data
+#Create a symbolic link to the folder where extracted images are saved at language_driven_action_recognition_localization/data
 ```
 
 
