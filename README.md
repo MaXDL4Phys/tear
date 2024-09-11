@@ -34,6 +34,8 @@ and may introduce domain biases.
 In this work, we propose **T**ext-**E**nhanced **A**ction **R**ecognition (**TEAR**), a simple approach to ZS-VAR that is training-free and does not require the availability of training data or extensive computational resources. Drawing inspiration from recent findings in vision and language literature, we utilize action descriptors for decomposition and contextual information to enhance zero-shot action recognition. 
 Through experiments on UCF101, HMDB51, and Kinetics-600 datasets, we showcase the effectiveness and applicability of our proposed approach in addressing the challenges of ZS-VAR.
 
+[pae4 link](http://arxiv.org/abs/2408.16412)
+
 ## To start
 
 ```bash
