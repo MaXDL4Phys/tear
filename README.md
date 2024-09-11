@@ -121,3 +121,17 @@ python scripts/zsacr-hmdb51-run.py
 ```
 python scripts/zsacr-k600-run.py
 ```
+
+# Citation
+
+Please consider citing our paper in your publications if the project helps your research.
+
+```
+@article{Bosetti_2024_TEAR,
+        title={Text-Enhanced Zero-Shot Action Recognition: A training-free approach},
+        author={Massimo Bosetti and Shibingfeng Zhang and Bendetta Liberatori and Giacomo Zara and Elisa Ricci and Paolo Rota},
+        year={2024},
+        journal={arXiv}
+}
+```
+
